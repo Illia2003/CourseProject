@@ -1,0 +1,277 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Application.Web_Fashion
+build_property.RootNamespace = Application.Web_Fashion
+build_property.ProjectDir = D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Web_Fashion\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Web_Fashion
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Account/AccountInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2NvdW50SW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Account/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Admin/Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Admin/CustomerAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3VzdG9tZXJBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Admin/CustomerList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3VzdG9tZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Admin/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Attribute/AttributeName.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0cmlidXRlXEF0dHJpYnV0ZU5hbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Branch/Branch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmNoXEJyYW5jaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Category/CategoryPhoto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlQaG90by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Category/ManageCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcTWFuYWdlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Customer/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Customer/EditAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdEFkZHJlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Customer/OrderConfirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcT3JkZXJDb25maXJtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Customer/OrderDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcT3JkZXJEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Customer/OrderList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcT3JkZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Customer/PaymentCancel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcUGF5bWVudENhbmNlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/HomeSlider/SliderImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVNsaWRlclxTbGlkZXJJbWFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Home/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Home/Index_grocery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleF9ncm9jZXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Home/Index_multipurpose.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleF9tdWx0aXB1cnBvc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Info/Message.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb1xNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/ItemType/ItemType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVR5cGVcSXRlbVR5cGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Lang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Lookup/Lookup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9va3VwXExvb2t1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Order/OrderDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Order/OrderList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Order/SalesReturn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcU2FsZXNSZXR1cm4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Photo/ManagePhoto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9cTWFuYWdlUGhvdG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Photo/SiteLogo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9cU2l0ZUxvZ28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/ProductEntry/AttributeVariation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdEVudHJ5XEF0dHJpYnV0ZVZhcmlhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/ProductEntry/BulkPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdEVudHJ5XEJ1bGtQb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/ProductEntry/EditCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdEVudHJ5XEVkaXRDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/ProductEntry/EditPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdEVudHJ5XEVkaXRQb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/ProductEntry/Post.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdEVudHJ5XFBvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/ProductEntry/PostProductMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdEVudHJ5XFBvc3RQcm9kdWN0TWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/ProductEntry/StockUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdEVudHJ5XFN0b2NrVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Product/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Report/ActivityLog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XEFjdGl2aXR5TG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Report/DailySales.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XERhaWx5U2FsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Report/DailySalesChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XERhaWx5U2FsZXNDaGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Security/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdXJpdHlcRm9yZ290UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Security/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdXJpdHlcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Setting/Setting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0dGluZ1xTZXR0aW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Shared/_Layout_Administration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfQWRtaW5pc3RyYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Shared/_Layout_Customer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfQ3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Static/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGljXEFib3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Static/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGljXEJsb2cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Static/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGljXENvbnRhY3RVcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Static/CookiePolicy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGljXENvb2tpZVBvbGljeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Static/Help.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGljXEhlbHAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Static/PageNotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGljXFBhZ2VOb3RGb3VuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Static/PrivacyPolicy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGljXFByaXZhY3lQb2xpY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Static/TermsOfUse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGljXFRlcm1zT2ZVc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/Supplier/Supplier.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcU3VwcGxpZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/UserManagement/CreateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hbmFnZW1lbnRcQ3JlYXRlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/UserManagement/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hbmFnZW1lbnRcVXNlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ХНУ/3/Інтернет/Курсовий проект/Fashion/Source/Application.Web_Fashion/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

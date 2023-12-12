@@ -1,0 +1,488 @@
+﻿@using Application.Web;
+@model dynamic
+<!DOCTYPE html>
+
+<html lang="en" ng-app="app">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>@{ var siteTitle = Application.Common.Utils.GetCompanyName(); @siteTitle}</title>
+
+    <!-- Responsive Metatag -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Page Description and Keyword -->
+    <meta name="Keywords" content="@{ var metaKeywords = Application.Common.Utils.GetMetaKeywords(); @metaKeywords}" />
+    <meta name="Description" content="@{ var metaDescription = Application.Common.Utils.GetMetaDescription(); @metaDescription}" />
+
+    <!-- Author -->
+    <meta name="author" content="ecommerce-templates.net">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="~/favicon.png">
+
+    <!-- Styles -->
+    <link href="~/Assets/css/style.css" rel="stylesheet" />
+    <link href="~/site.min.css" rel="stylesheet" />
+    
+    <!-- Fonts -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600;700&amp;display=swap" rel="stylesheet" media="print" onload="if(media!='all')media='all'">
+
+    <!-- Google analytics -->
+    @{
+        var googleAnalytics = Application.Common.Utils.GetGoogleAnalyticsCode();        
+        @Html.Raw(@googleAnalytics)
+    }
+</head>
+
+    <body ng-cloak>
+        <div id="wrapper">
+            <div id="container" class="boxed-page-NONE">
+                <div class="hidden-header"></div>
+                <header class="site-header">
+                    <nav id="top">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-6 col-xs-6 header-social">
+                                    <div class="header-social">
+                                        <div class="socials-block">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="top-links" class="col-sm-6 col-xs-6 text-right">
+                                    <ul class="list-inline pull-right">
+                                        <li class="dropdown top-item-li">
+                                            <a href="#" title="My Account" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="fa fa-user hidden-md hidden-lg hidden-sm"></i><span class="hidden-xs">@Localizer["My Account"]</span>&nbsp;<i class="fa fa-angle-down"></i></a>
+                                            <ul class="dropdown-menu dropdown-menu-right userdown">
+                                                @{
+                                                    if (AppUtils.GetLoggedInUser() != null)
+                                                    {
+                                                        if (User.IsInRole("admin") || User.IsInRole("manager") || User.IsInRole("salesperson"))
+                                                        {
+                                                            <li>
+                                                                <a href="/Admin/Index" class="after-login-text-desktop-view">@Localizer["Administration"]</a>
+                                                            </li>
+                                                            <li>
+                                                                <span><a href="/Security/SignOut">@Localizer["Sign Out"]</a></span>
+                                                            </li>
+                                                        }
+                                                        else if (User.IsInRole("customer"))
+                                                        {
+                                                            <li>
+                                                                <span><a href="/Customer/Index">@Localizer["Dashboard"]</a></span>
+                                                            </li>
+                                                            <li>
+                                                                <span><a href="/Customer/OrderList">@Localizer["My Orders"]</a></span>
+                                                            </li>
+                                                            <li>
+                                                                <span><a href="/Customer/EditAddress">@Localizer["My Address"]</a></span>
+                                                            </li>
+                                                            <li>
+                                                            <span><a href="/Security/SignOut">@Localizer["Sign Out"]</a></span>
+                                                            </li>
+                                                        }
+                                                    }
+                                                    else
+                                                    {
+                                                        <li>
+                                                            <a href="/Security/Login" class="after-login-text-desktop-view">@Localizer["Login"]</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/Account/Register" class="after-login-text-desktop-view">@Localizer["Register"]</a>
+                                                        </li>
+                                                    }
+
+                                                }
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown language-select top-item-li">
+                                            <a href="#" title="My Account" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="fa fa-globe hidden-md hidden-lg hidden-sm"></i><span class="hidden-xs">@Localizer["Language"]</span>&nbsp;<i class="fa fa-angle-down"></i></a>
+                                            <ul class="dropdown-menu dropdown-menu-right userdown">
+                                            <li><a class="dropdown-item black-text" href="/?culture=uk">@Localizer["Ukraine"]</a></li>
+                                            <li><a class="dropdown-item black-text" href="/?culture=en">@Localizer["English"]</a></li>
+                                        </ul>
+                                        </li>
+
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </nav>
+                    <div class="container">
+                        <div class="bar-container">
+                            <div class="bar-logo">
+                                <a class="navbar-brand" href="/Home/Index" style="font-weight: bold; color: black;">
+                                    SundukMod
+                                </a>
+                            </div>
+                            <div class="bar-search">
+                                <div class="bar-search-container"> 
+                                    <input id="header-search-box" class="form-control header-search-control" type="text" placeholder="@Localizer["Search Items"]" />
+                                    <div id="header-search-btn-container">
+                                        <div id="header-search-btn">
+                                            <a class="icon-search-1"></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="bar-link">
+                                <div>
+                                    <div class="menu-cart">
+                                        <a href="#">
+                                            <img class="top-shopping-cart" src="~/Images/cart-top.png" />
+                                            <span id="nav-cart-count" aria-hidden="true" class="nav-cart-count nav-cart-1"></span>
+                                        </a>
+                                        <div class="menu-cart-item-container">
+                                            <div class="menu-cart-items"></div>
+                                        </div>
+                                    </div>                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+
+                <div class="top-header">
+                    <div class="top-header-app-view" style="display:none;">
+                        <div class="row top-header-app-view-row">
+                            <div class="col-sm-12">
+                                <div class="dropdown top-cat-menu-header">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                        <img class="app-hide" src="/Images/list-white.png" style="height:20px;" />
+                                        <span class="menu-category-label">@Localizer["Categories"]</span>
+                                        <img src="/Images/down-arrow-white.png" style="height: 20px; margin-left: 5px;" />
+                                    </a>
+
+                                    <div class="dropdown-menu mega-menu top-cat-menu-container">
+                                        <div style="margin-top:15px; padding:10px; padding-top:5px; border-top:1px solid #dcdcdc;">
+                                            <div style="float:right;"><a href="/Product/Search?cat=0&loc=0&search=">@Localizer["See all categories"]</a></div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="app-hide" style="float:left; margin-left:5px;">
+                                    <a href="/Product/Search?cat=0&loc=0&search=&discount=yes&t=@{var ticks = DateTime.Now.Ticks.ToString(); @ticks;}" class="blink_me" style="margin-left:5px;">@Localizer["Special Offers"]</a>
+                                </div>
+                                <div style="float:right; margin-right: 15px;">
+                                    <a style="color: #fff;" href="/Home">@Localizer["Home"]</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="container top-header-desktop-view">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div>
+                                    <nav class="menu home-page-menu" style="">
+                                        <ul class="header-icon-menu active" style="">
+                                            <li class="dropdown top-cat-menu-header" style="padding-left: 0 !important;position: relative; width: 230px !important; height:45px;">
+                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="text-decoration:none; position:relative; left:-25px;">
+                                                    <img src="/Images/list-white.png" style="height:24px;" />
+                                                    <span class="menu-category-label">@Localizer["Categories"]</span>
+                                                    <img src="/Images/down-arrow-white.png" style="height: 20px; margin-left: 5px;" />
+                                                </a>
+
+                                                <div class="dropdown-menu mega-menu top-cat-menu-container" style="display: none; max-height: 300px; width: 500px; padding:10px;">
+                                                    <div style="margin-top:15px; padding:10px; padding-top:5px; border-top:1px solid #dcdcdc;">
+                                                        <div style="float:right;"><a href="/Product/Search?cat=0&loc=0&search=">@Localizer["See all categories"]</a></div>
+                                                    </div>
+                                                </div>
+                                            </li>                                            
+                                        </ul>
+                                    </nav>
+                                </div>
+                            </div>
+                            <div class="col-md-6 text-right">
+                                <div class="top-bar-right">
+                                    <a class="border-left" href="/home">@Localizer["Home"]</a>
+                                    <a href="/static/contactus">@Localizer["Contact"]</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <br />
+
+                <!-- Start Content -->
+                <div id="content" class="full-sections">
+                    <div class="side-shadow">
+                        <div class="main-content">
+                            <div class="main-content-inner">
+                                <div class="page-content">
+                                    @RenderBody()
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="img-pattern" style="visibility: visible;"></div>
+
+            <!-- Go To Top Link -->
+            <a href="#" class="back-to-top"><i class="icon-up-open-1"></i></a>
+
+            <!-- Footer -->
+        <section class="footer-bottom" style="font-size: 14px;">
+            <footer class="footer-back">
+
+                    <div class="container">
+                        <div class="row app-hide btm_footer text-center footer-container" style="padding-top:25px;">
+                            <div class="col-sm-2">
+                            </div>
+                            <div class="col-sm-3 bottom_nav">
+                                <div class="footer-header">
+                                    @Localizer["Your Account"]
+                                </div>
+                                <ul class="footer-ul">
+                                    <li><a href="/Security/Login">@Localizer["Sign In"]</a></li>
+                                    <li><a href="/Account/Register">@Localizer["Create Account"]</a></li>
+                                    <li><a href="/Customer/OrderList">@Localizer["Order Status"]</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-3 bottom_nav margin_btm_60">
+                                <div class="footer-header">
+                                    @Localizer["Company"]
+                                </div>
+                                <ul class="footer-ul">
+                                    <li><a href="/Static/ContactUs">@Localizer["Contact Us"]</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-3 bottom_nav margin_btm_60">
+                            </div>
+                            <div class="col-sm-1">
+                            </div>
+                        </div>
+
+                        <!-- For mobile view-->
+                        <div class="app-show" style="border-top: 1px solid #404040; margin-top:15px; padding: 15px; display:none;">
+                            <div style="text-align:center;">
+                                <div class="center">
+                                    <a href="/Security/Login">@Localizer["Sign In"]</a>&nbsp;|&nbsp;<a href="/Account/Register">@Localizer["Create Account"]</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+            </section>
+            <!-- End Footer -->
+
+        </div>
+                        
+        <script src="~/js/Vendor/ngfile.js"></script>
+        <script src="~/site-library.min.js"></script>
+        <script src="~/site.min.js"></script>
+        @RenderSection("scripts", required: false)
+
+        <!------------------------- FOR SHOPPING CART & TOP MENU CATEGORY ----------------------->
+        <script type="text/javascript">
+
+            $(document).ready(function () {
+
+                $("#header-search-box").keyup(function () {
+                    loadAutoComplete();
+                });
+
+                function loadAutoComplete() {
+                    $("#header-search-box").autocomplete({
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "/Product/GetProductTitles",
+                                type: "GET",
+                                dataType: "json",
+                                data: { titlePart: document.getElementById('header-search-box').value },
+                                success: function (data) {
+                                    response($.map(data, function (item) {
+                                        return { label: item.Title, value: item.Title };
+                                    }))
+                                },
+                                error: function (request, status, error) {
+                                    console.log('Error: ' + request.responseText);
+                                }
+                            })
+                        },
+                        messages: {
+                            noResults: '',
+                            results: function (resultsCount) { }
+                        }
+                    });
+                }
+            })
+
+            function LoadCategories() {
+
+                $.ajax({
+                    dataType: "json",
+                    url: '/Category/GetParentCategoryList',
+                    data: {},
+                    success: function (cats) {
+
+                        var htmlCatMenu = '<div class="row">';
+                        for (var i = 0; i < cats.length; i++) {
+
+                            if (i === 0) {
+                                htmlCatMenu += '<div class="col-md-4">';
+                            }
+                            else if (i === 10) {
+                                htmlCatMenu += '<div class="col-md-4">';
+                            }
+                            else if (i === 20) {
+                                htmlCatMenu += '<div class="col-md-4">';
+                            }
+
+                            htmlCatMenu += '<div style="padding:2px;"><a href="/Product/Search?cat=' + cats[i].Id + '">' + cats[i].Name + '</a></div>';
+
+                            if (i === 9) {
+                                htmlCatMenu += '</div>';
+                            }
+                            else if (i === 19) {
+                                htmlCatMenu += '</div>';
+                            }
+                            else if (i === 29) {
+                                htmlCatMenu += '</div>';
+                            }
+                        }
+
+                        htmlCatMenu += '</div>';
+
+                        $('.top-cat-menu-container').html(htmlCatMenu);
+                        
+                    },
+                    error: function (xhr) {
+
+                    }               
+                })
+            }
+
+            function builtCartItems() {
+
+                var totalQuantity = 0;
+                var totalAmount = 0;
+
+                var cart = getCart();
+
+                var html = '<table class="tbl-menu-cart-items">';
+
+                html += '<tr style="background-color:#f2f2f2; font-weight:600;">';
+                html += '<td>Image</td>';
+                html += '<td class="left-align">Name</td>';
+                html += '<td>Qty</td>';
+                html += '<td>Price</td>';
+                html += '</tr>';
+                
+                for (var i = 0; i < cart.length; i++) {
+
+                    var price = (cart[i].Quantity * cart[i].RetailPrice);
+
+                    html += '<tr>';
+
+                    html += '<td>';
+                    html += '<img src="' + cart[i].ImageUrl + '" />';
+                    html += '</td>';
+
+                    html += '<td class="left-align">';
+                    html += '<a href="/Product/Details?id='+ cart[i].Id +'">' + cart[i].Name + '</a>';
+                    html += '</td>';
+
+                    html += '<td>';
+                    html += '<span>' + cart[i].Quantity + '</span>';
+                    html += '</td>';
+
+                    html += '<td>';
+                    html += '<span>' + siteCurrency() + price + '</span>';
+                    html += '</td>';
+
+                    html += '</tr>';
+
+                    totalQuantity += parseInt(cart[i].Quantity, 10);
+                    totalAmount += price;
+                }
+
+                // Summary row
+                html += '<tr class="summary-row">';
+
+                html += '<td colspan="2">';
+            html += '<a class="theme-back-color menu-cart-btn btn bm-button" href="/cart">Go to cart</a>';
+                html += '<span style="float:right; position:relative; top:7px;">Total:</span>';
+                html += '</td>';
+
+                html += '<td>';
+                html += '<span>'+ totalQuantity +'</span>';
+                html += '</td>';
+
+                html += '<td>';
+                html += '<span>' + siteCurrency() + totalAmount + '</span>';
+                html += '</td>';
+
+                html += '</tr>';
+                // End of summary row
+                
+                html += '</table>';
+
+                $('.menu-cart-items').html(html);
+            }
+
+            function DetectResponsiveSize() {
+                var $window = $(window);
+                
+                var windowsize = $window.width();
+                if (windowsize < 600) {
+
+                }
+            }
+
+            $(document).ready(function () {
+
+                DetectResponsiveSize();
+                LoadCategories();
+
+                // Show cart counter
+                var itemCount = getCartItemCount();
+
+                $('#nav-cart-count').html(itemCount);
+
+                $(".menu-cart").click(function () {
+
+                    itemCount = getCartItemCount();
+                    if (itemCount > 0) {
+                        if ($(".menu-cart-item-container").is(":visible") == true) {
+                            $('.menu-cart-item-container', this).fadeOut("fast");
+                        }
+                        else {
+                            builtCartItems();
+                            $('.menu-cart-item-container', this).fadeIn("fast");
+                        }
+                    }
+                });
+
+                $(".menu-cart").mouseleave(function () {
+                    if ($(".menu-cart-item-container").is(":visible") == true) {
+                        $('.menu-cart-item-container').fadeOut("fast");
+                    }
+                });
+
+            });
+        </script>
+        <!------------------------- END SHOPPING CART ----------------------->
+
+        <!--Start of Tawk.to Script-->
+        <script type="text/javascript">
+            var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+            (function () {
+                var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+                s1.async = true;
+                s1.src = 'https://embed.tawk.to/5ef15d3d4a7c6258179b24cf/default';
+                s1.charset = 'UTF-8';
+                s1.setAttribute('crossorigin', '*');
+                s0.parentNode.insertBefore(s1, s0);
+            })();
+        </script>
+        <!--End of Tawk.to Script-->
+
+    </body>    
+
+</html>

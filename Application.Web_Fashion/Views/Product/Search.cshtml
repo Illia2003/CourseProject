@@ -1,0 +1,162 @@
+﻿
+@{
+    ViewBag.Title = Localizer["Index"];
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form name="myForm" novalidate>
+    <div ng-controller="ProductSearchCtrl" id="searchCtl" class="form-horizontal">
+        <div class="container" style="margin-top:8px;">            
+            <div class="row">
+                <div class="col-sm-3 app-hide-NONE" style="margin-bottom: 20px;">
+                    <div class="refine-search-container">
+                        <div class="filter-container">
+                            <div class="filter-header">
+                                <span>@Localizer["Category"]</span>
+                                <span ng-click="expandCollapse('category')" style="float:right;"><i class="category-icon-showhide icon-minus-3"></i></span>
+                            </div>
+                            <div class="filter-content category-filter">
+                                <ul id="category-filter-selection"></ul>
+                                <ul id="category-filter" style="margin-top:4px; margin-left:0px;"></ul>
+                                <div class="category-loader">
+                                    <img src="~/Images/ajax-loader-small.gif" /><span style="padding-left:8px;">@Localizer["Loading..."]</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="filter-container">
+                            <div class="filter-header">
+                                <span>@Localizer["Price"]</span>
+                                <span ng-click="expandCollapse('price')" style="float:right;"><i class="price-icon-showhide icon-minus-3"></i></span>
+                            </div>
+                            <div class="filter-content price-filter">
+                                <input id="flt-min-price" ng-model="MinPrice" class="filter-price-input" placeholder="Min" />
+                                &nbsp;To&nbsp;
+                                <input id="flt-min-price" ng-model="MaxPrice" class="filter-price-input" placeholder="Max" />
+                                &nbsp;
+                                <div class="btn-filter-price" style="">
+                                    <a href="#" ng-click="priceFilter()" style="color: #fff; font-size: 15px;">@Localizer["Go"]</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="filter-container">
+                            <div class="filter-header">
+                                <span>@Localizer["Colors"]</span>
+                                <span ng-click="expandCollapse('color')" style="float:right;"><i class="color-icon-showhide icon-minus-3"></i></span>
+                            </div>
+                            <div class="filter-content color-filter">
+                                <div id="colors">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="filter-container">
+                            <div class="filter-header">
+                                <span>@Localizer["Sizes"]</span>
+                                <span ng-click="expandCollapse('size')" style="float:right;"><i class="size-icon-showhide icon-minus-3"></i></span>
+                            </div>
+                            <div class="filter-content size-filter">
+                                <div id="sizes">
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="col-sm-9 show-result clearfix">
+
+                    <div id="searchResultTitle"></div>
+                    <div class="clearfix">
+                        <div>
+                            <div id="search-item-container" class="grid_featuredItems"></div>
+                        </div>
+                    </div>
+                    <br />
+                    
+                    <div class="search-loading" style="display:none;">
+                        <div class="listing-product-info">
+                            <div>
+                                <div class="product-thumb">
+                                    <div class="dum-prod-item"></div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="dum-load-1 dum-prod-item" style="margin-left: 160px; width: inherit; height:12px;"></div>
+                                    <div class="dum-load-2 dum-prod-item" style="margin-left: 160px; width: 120px; height: 12px;"></div>
+                                    <div class="dum-load-2 dum-prod-item" style="margin-left: 160px; width: 250px; height: 12px; margin-top: 30px;"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="listing-product-info">
+                            <div>
+                                <div class="product-thumb">
+                                    <div class="dum-prod-item"></div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="dum-load-1 dum-prod-item" style="margin-left: 160px; width: inherit; height:12px;"></div>
+                                    <div class="dum-load-2 dum-prod-item" style="margin-left: 160px; width: 120px; height: 12px;"></div>
+                                    <div class="dum-load-2 dum-prod-item" style="margin-left: 160px; width: 250px; height: 12px; margin-top: 30px;"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="listing-product-info">
+                            <div>
+                                <div class="product-thumb">
+                                    <div class="dum-prod-item"></div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="dum-load-1 dum-prod-item" style="margin-left: 160px; width: inherit; height:12px;"></div>
+                                    <div class="dum-load-2 dum-prod-item" style="margin-left: 160px; width: 120px; height: 12px;"></div>
+                                    <div class="dum-load-2 dum-prod-item" style="margin-left: 160px; width: 250px; height: 12px; margin-top: 30px;"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="listing-product-info">
+                            <div>
+                                <div class="product-thumb">
+                                    <div class="dum-prod-item"></div>
+                                </div>
+                                <div class="product-details">
+                                    <div class="dum-load-1 dum-prod-item" style="margin-left: 160px; width: inherit; height:12px;"></div>
+                                    <div class="dum-load-2 dum-prod-item" style="margin-left: 160px; width: 120px; height: 12px;"></div>
+                                    <div class="dum-load-2 dum-prod-item" style="margin-left: 160px; width: 250px; height: 12px; margin-top: 30px;"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="listing-product-info product-search-result" ng-repeat="product in searchResult">
+                        <div>
+                            <a href="/Product/Details?id={{product.Id}}">
+                                <div class="product-thumb" style="width: 160px; height: 160px; border:1px solid #eee; text-align: center;">
+                                    <img alt="" ng-src="{{product.PrimaryImageName}}" style="max-width:158px; max-height:158px;" class="product-img-pos" />
+                                    <div class="product-img-count"><span class="icon-camera-1">{{product.ImageList.length}}</span></div>
+                                </div>
+                                <div class="product-details">
+                                    <div>
+                                        <span class="listing-title11" style="font-size: 17px; color: #0654ba;">{{product.Title}}</span>
+                                    </div>
+                                    <p class="listing-description txt-sub txt-tertiary truncate-paragraph hide-fully-to-m" style="margin-bottom: 8px !important;" itemprop="description">
+                                        {{product.Description}}
+                                    </p>                                    
+                                </div>
+                            </a>
+                        </div>
+
+                    </div>
+
+                    <!--Pagination-->
+                    <div class="pagination-container">
+                        <ul id="pagination-ul" class="pagination-md"></ul>
+                    </div>
+                    
+                    <div class="no-record-found">
+                        <i class="icon-warning"></i>
+                        <span>@Localizer["Sorry, No record found!"]</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>    
+</form>

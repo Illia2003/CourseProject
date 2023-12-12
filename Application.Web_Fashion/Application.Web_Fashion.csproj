@@ -1,0 +1,147 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Pages\**" />
+    <Compile Remove="Views\StockLocation\**" />
+    <Content Remove="Pages\**" />
+    <Content Remove="Views\StockLocation\**" />
+    <EmbeddedResource Remove="Pages\**" />
+    <EmbeddedResource Remove="Views\StockLocation\**" />
+    <None Remove="Pages\**" />
+    <None Remove="Views\StockLocation\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\NotificationController.cs" />
+    <Compile Remove="Controllers\PaymentController.cs" />
+    <Compile Remove="Controllers\PurchaseController.cs" />
+    <Compile Remove="Controllers\StockLocationController.cs" />
+    <Compile Remove="Controllers\SyncController.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Report\MonthlySalesChart.cshtml" />
+    <Content Remove="Views\Shared\Error.cshtml" />
+    <Content Remove="Views\Shared\_HeaderSearchBar.cshtml" />
+    <Content Remove="Views\Shared\_HeaderSearchBar_Home.cshtml" />
+    <Content Remove="Views\Shared\_Layout_Admin.cshtml" />
+    <Content Remove="Views\Shared\_Layout_MyPlace.cshtml" />
+    <Content Remove="wwwroot\js\Controller\Reports\MonthlySalesChart.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="BuildBundlerMinifier" Version="3.2.449" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Session" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="7.0.8" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Stripe.net" Version="41.15.0" />
+    <PackageReference Include="System.Net.Http" Version="4.3.4" />
+    <PackageReference Include="System.Runtime.Caching" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application.Common\Application.Common.csproj" />
+    <ProjectReference Include="..\Application.Data\Application.Data.csproj" />
+    <ProjectReference Include="..\Application.Logging\Application.Logging.csproj" />
+    <ProjectReference Include="..\Application.Model\Application.Model.csproj" />
+    <ProjectReference Include="..\Application.Notification\Application.Notification.csproj" />
+    <ProjectReference Include="..\Application.Service\Application.Service.csproj" />
+    <ProjectReference Include="..\Application.ViewModel\Application.ViewModel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\js\App\App.js" />
+    <None Include="wwwroot\js\App\common.js" />
+    <None Include="wwwroot\js\App\directives.js" />
+    <None Include="wwwroot\js\App\enum.js" />
+    <None Include="wwwroot\js\Controller\Account\AccountInfo.js" />
+    <None Include="wwwroot\js\Controller\Account\ChangePassword.js" />
+    <None Include="wwwroot\js\Controller\Account\ChangeUsername.js" />
+    <None Include="wwwroot\js\Controller\Account\RegisterAccount.js" />
+    <None Include="wwwroot\js\Controller\Admin\CustomerAdd.js" />
+    <None Include="wwwroot\js\Controller\Admin\CustomerList.js" />
+    <None Include="wwwroot\js\Controller\Admin\Dashboard.js" />
+    <None Include="wwwroot\js\Controller\Admin\ProductList.js" />
+    <None Include="wwwroot\js\Controller\Attribute\AttributeName.js" />
+    <None Include="wwwroot\js\Controller\Branch\Branch.js" />
+    <None Include="wwwroot\js\Controller\Cart\ShoppingCart.js" />
+    <None Include="wwwroot\js\Controller\Category\Category.js" />
+    <None Include="wwwroot\js\Controller\Category\CategoryPhoto.js" />
+    <None Include="wwwroot\js\Controller\Customer\OrderDetails.js" />
+    <None Include="wwwroot\js\Controller\Customer\OrderList.js" />
+    <None Include="wwwroot\js\Controller\HomeSlider\HomeSlider.js" />
+    <None Include="wwwroot\js\Controller\Home\Index11.js" />
+    <None Include="wwwroot\js\Controller\Home\Index1.js" />
+    <None Include="wwwroot\js\Controller\Home\Index.js" />
+    <None Include="wwwroot\js\Controller\Home\Index_multipurpose.js" />
+    <None Include="wwwroot\js\Controller\ItemType\ItemType.js" />
+    <None Include="wwwroot\js\Controller\Lookup\Lookup.js" />
+    <None Include="wwwroot\js\Controller\Order\OrderDetails.js" />
+    <None Include="wwwroot\js\Controller\Order\OrderList.js" />
+    <None Include="wwwroot\js\Controller\Order\SalesReturn.js" />
+    <None Include="wwwroot\js\Controller\Photo\ManagePhoto.js" />
+    <None Include="wwwroot\js\Controller\Photo\SiteLogo.js" />
+    <None Include="wwwroot\js\Controller\ProductEntry\AttributeVariations.js" />
+    <None Include="wwwroot\js\Controller\ProductEntry\EditCategory.js" />
+    <None Include="wwwroot\js\Controller\ProductEntry\EditPost.js" />
+    <None Include="wwwroot\js\Controller\ProductEntry\Post.js" />
+    <None Include="wwwroot\js\Controller\ProductEntry\StockUpdate.js" />
+    <None Include="wwwroot\js\Controller\Product\Details.js" />
+    <None Include="wwwroot\js\Controller\Product\Search.js" />
+    <None Include="wwwroot\js\Controller\Reports\ActivityLog.js" />
+    <None Include="wwwroot\js\Controller\Reports\DailySales.js" />
+    <None Include="wwwroot\js\Controller\Reports\DailySalesChart.js" />
+    <None Include="wwwroot\js\Controller\Security\ForgotPassword.js" />
+    <None Include="wwwroot\js\Controller\Security\Login.js" />
+    <None Include="wwwroot\js\Controller\Settings\Settings.js" />
+    <None Include="wwwroot\js\Controller\Shared\HeaderSearchBar.js" />
+    <None Include="wwwroot\js\Controller\Static\ContactUs.js" />
+    <None Include="wwwroot\js\Controller\Supplier\Supplier.js" />
+    <None Include="wwwroot\js\Controller\UserManagement\CreateUser.js" />
+    <None Include="wwwroot\js\Controller\UserManagement\UserList.js" />
+    <None Include="wwwroot\js\Plugin\ace.js" />
+    <None Include="wwwroot\js\Plugin\bootbox.min.js" />
+    <None Include="wwwroot\js\Plugin\bootstrap-multiselect.js" />
+    <None Include="wwwroot\js\Plugin\dataTables.fixedColumns.min.js" />
+    <None Include="wwwroot\js\Plugin\dataTables.fixedHeader.min.js" />
+    <None Include="wwwroot\js\Plugin\dataTables.responsive.min.js" />
+    <None Include="wwwroot\js\Plugin\html5-qrcode.min.js" />
+    <None Include="wwwroot\js\Plugin\imagesloaded.pkgd.min.js" />
+    <None Include="wwwroot\js\Plugin\jquery-dateFormat.min.js" />
+    <None Include="wwwroot\js\Plugin\jquery.dataTables.min.js" />
+    <None Include="wwwroot\js\Plugin\jquery.loadmask.js" />
+    <None Include="wwwroot\js\Plugin\jquery.slimscroll.min.js" />
+    <None Include="wwwroot\js\Plugin\jquery.timeentry.min.js" />
+    <None Include="wwwroot\js\Plugin\jquery.twbsPagination.js" />
+    <None Include="wwwroot\js\Plugin\masonry.pkgd.min.js" />
+    <None Include="wwwroot\js\Plugin\moment.js" />
+    <None Include="wwwroot\js\Plugin\slick.min.js" />
+    <None Include="wwwroot\js\Vendor\angular-sanitize.js" />
+    <None Include="wwwroot\js\Vendor\angular.min.js" />
+    <None Include="wwwroot\js\Vendor\bootstrap.min.js" />
+    <None Include="wwwroot\js\Vendor\highcharts-exporting.js" />
+    <None Include="wwwroot\js\Vendor\highcharts.js" />
+    <None Include="wwwroot\js\Vendor\jquery-2.1.1.min.js" />
+    <None Include="wwwroot\js\Vendor\jquery-3.5.1.min.js" />
+    <None Include="wwwroot\js\Vendor\jquery-ui.min.js" />
+    <None Include="wwwroot\js\Vendor\jquery.plugin.min.js" />
+    <None Include="wwwroot\js\Vendor\ngfile.js" />
+    <None Include="wwwroot\js\Vendor\ngRoute.js" />
+    <None Include="wwwroot\js\Vendor\pixel-admin.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\ProductImages\Shaped\" />
+  </ItemGroup>
+
+</Project>

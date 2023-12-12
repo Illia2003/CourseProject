@@ -1,0 +1,365 @@
+﻿@{
+    ViewBag.Title = "Add Product";
+    Layout = "~/Views/Shared/_Layout_Administration.cshtml";
+}
+
+<style type="text/css">
+    #tbl-variations tr td{
+        padding: 10px;
+        border: 1px solid #dcdcdc;
+    }
+    #tbl-variations .header {
+        background-color: #f5f5f5;
+    }
+</style>
+
+<div class="container11">
+    <div class="page-banner no-subtitle">
+        <div class="row">
+            <div class="col-md-6">
+                <h2>Add Product</h2>
+            </div>
+            <div class="col-md-6">
+                <ul class="breadcrumbs">
+                    <li><a href="#">Products</a></li>
+                    <li>Add Product</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <br />
+
+    <form name="myForm" novalidate>
+        <div ng-controller="postProductCtrl" class="form-horizontal">
+
+            <div>
+                <div class="section-container" id="category-container">
+                    <div class="s-title">
+                        <span class="product-post-section-text">Product Category</span>
+                    </div>
+                    <div class="s-body">
+                        <div class="row category-picker" style="border:1px solid #dcdcdc; margin-left:0; margin-right:0;">
+                            <div class="col-md-3">
+                                <select name="oneSelect" tabindex="1" class="column" size="10" id="oneSelect"></select>
+                            </div>
+                            <div class="col-md-3">
+                                <select name="twoSelect" tabindex="2" class="column" size="10" id="twoSelect" style="display: none"></select>
+                            </div>
+                            <div class="col-md-3">
+                                <select name="threeSelect" tabindex="3" class="column" size="10" id="threeSelect" style="display: none"></select>
+                            </div>
+                            <div class="col-md-3">
+                                <select name="fourSelect" tabindex="4" class="column last" size="10" id="fourSelect" style="display: none"></select>
+                            </div>
+                        </div>
+                        <div class="row cat-continue-section" style="margin-top: 12px;">
+                            <div class="col-md-12">
+                                <a id="btnCategoryContinue" class="btn-disable" style="float:right;">Continue</a>
+                            </div>
+                        </div>
+                        <div class="row cat-edit-section" style="display:none;">
+                            <div class="col-md-8">
+                                <span class="selectedCategoryText"></span>
+                            </div>
+                            <div class="col-md-4">
+                                <a id="btnEditCategory" class="btn-active" style="float:right;">Edit</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>                
+                <br />               
+
+                <div id="general-container">
+
+                    <div class="section-container" style="display: none;">
+                        <div class="s-title">
+                            <span class="product-post-section-text">Store Branch</span>
+                        </div>
+                        <div class="s-body">
+
+                            <div class="row form-group">
+                                <div class="col-sm-5">
+                                    <div class="field-caption control-label">Select Branch</div>
+                                    <select id="branch" ng-model="branchId" name="branchId" class="form-control form-group-margin" ng-options="branch.Id as branch.Name for branch in branchList">
+                                        <option value="">Select Branch</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+                    <div class="section-container">
+                        <div class="s-title">
+                            <span class="product-post-section-text">Product Information</span>
+                        </div>
+                        <div class="s-body">
+
+                            <div class="row form-group">
+                                <div class="col-sm-5">
+                                    <div class="field-caption control-label">
+                                        <span style="float:left;">Product Barcode</span>
+                                    </div>
+                                    <input id="barcode" name="Barcode" ng-model="barcode" maxlength="200" placeholder="Barcode" class="form-control ctl-input">
+                                    <span id="barcodeStatus" style="font-weight: 600;"></span>
+                                </div>
+                                <div class="col-ms-7" style="padding-left:10px;">
+                                    <div class="field-caption control-label">&nbsp;</div>
+                                    <img id="showScan" ng-click="showHideBarcodeScanner()" src="~/Images/scan.png" style="height: 40px; cursor: pointer;" />
+                                    <button type="button" ng-click="generateBarcode()" class="btn btn-success">Generate</button>
+                                    <button type="button" ng-click="checkBarcodeDuplicacy()" class="btn btn-primary">Check Duplicacy</button>
+                                </div>
+                            </div>
+
+                            <div id="barcode-reader-container" class="row form-group" style="display:none;">
+                                <div class="col-ms-8">
+                                    <div id="barcode-reader" style="margin: 15px; width:500px;"></div>
+                                </div>
+                            </div>
+
+                            <div class="row form-group">
+                                <div class="col-sm-12">
+                                    <div class="field-caption control-label">Title</div>
+                                    <input id="title" name="title" ng-model="title" maxlength="200" placeholder="Product Title" class="form-control ctl-input">
+                                </div>
+                            </div>
+                            <div class="row form-group">
+                                <div class="col-sm-12">
+                                    <div class="field-caption control-label">Description / Specification</div>
+                                    <textarea id="description" name="description" ng-model="description" placeholder="Product Description" class="form-control ctl-input" rows="7"></textarea>
+                                </div>
+                            </div>
+
+                            <div class="row form-group">
+                                <div class="col-sm-4">
+                                    <div class="field-caption control-label">Supplier</div>
+                                    <select ng-model="supplierId" name="supplierId" class="form-control form-group-margin" ng-options="supplier.Id as supplier.Name for supplier in supplierList">
+                                        <option value="">Select Supplier</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="row form-group">
+                                <div class="col-sm-12">
+                                    <div class="field-caption control-label">Weight / Capacity</div>
+                                    <input name="weight" ng-model="weight" type="number" style="width:100px; float:left;" placeholder="Weight" class="form-control ctl-input">
+                                    <select ng-model="unit" name="unit" class="form-control ctl-input form-group-margin" style="width:100px; margin-left:10px;">
+                                        <option selected="selected" value="gm">gm</option>
+                                        <option value="kg">kg</option>
+                                        <option value="lt">lt</option>
+                                        <option value="ml">ml</option>
+                                        <option value="pc">pc</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="row form-group">
+                                <div class="col-sm-12">
+                                    <div class="field-caption control-label">Quantity</div>
+                                    <input name="quantity" ng-model="quantity" type="number" style="width:100px; float:left;" class="form-control ctl-input">
+                                </div>
+                            </div>
+
+                            <div class="row form-group">
+                                <div class="col-sm-12">
+                                    <div class="field-caption control-label">Low Stock Alert</div>
+                                    <input name="lowStockAlert" ng-model="lowStockAlert" type="number" style="width:100px; float:left;" class="form-control ctl-input">
+                                </div>
+                            </div>
+
+                            <div class="row form-group">
+                                <div class="col-sm-4">
+                                    <div class="field-caption control-label">Item / Brand Type</div>
+                                    <select ng-model="itemTypeId" name="itemTypeId" class="form-control form-group-margin" ng-options="itemType.Id as itemType.Name for itemType in itemTypeList">
+                                        <option value="">Select Item Type</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="row form-group" style="margin-bottom:0px;">
+                                <div class="col-sm-12">
+                                    <input type="checkbox" id="isFeatured" ng-model="isFeatured" class="ctl-input" />
+                                    <span class="field-caption control-label" style="position: relative; top: -15px; margin-left: 5px;">Show In Home Page</span>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>                    
+                    <br />
+                    <div class="section-container">
+                        <div class="s-title">
+                            <span class="product-post-section-text">Product Pricing</span>
+                        </div>
+                        <div class="s-body" style="padding-top: 0;">
+                            <div id="fixedPrice">
+                                <div class="row">
+                                    <div class="col-sm-3">
+                                        <div class="field-caption  field-caption-adjust">Cost Price</div>
+                                        <span style="position: relative; top: 31px; left: 8px;">$</span>
+                                        <input id="costPrice" ng-model="costPrice" ng-keydown="numberOnly($event)" placeholder="Cost Price" class="form-control ctl-input" style="padding-left:25px;">
+                                    </div>
+                                    <div class="col-sm-9">
+                                        <span></span>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-sm-3">
+                                        <div class="field-caption  field-caption-adjust">Retail Price</div>
+                                        <span style="position: relative; top: 31px; left: 8px;">$</span>
+                                        <input ng-model="retailPrice" ng-keydown="numberOnly($event)" placeholder="Retail Price" class="form-control ctl-input" style="padding-left:25px;">
+                                    </div>
+                                    <div class="col-sm-9">
+                                        <span></span>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-sm-3">
+                                        <div class="field-caption  field-caption-adjust">Discount</div>
+                                        <span style="position: relative; top: 31px; left: 8px;">$</span>
+                                        <input ng-model="Discount" ng-keydown="numberOnly($event)" placeholder="Discount" class="form-control ctl-input" style="padding-left:25px;">
+                                    </div>
+                                    <div class="col-sm-9">
+                                        <span></span>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <br />
+                    
+                    <!-- Attribute variations-->
+                    <div class="section-container">
+                        <div class="s-title">
+                            <span class="product-post-section-text">Attributes Variations</span>
+                        </div>
+                        <div class="s-body">
+
+                            <div class="row form-group">
+                                <div class="col-sm-5">
+                                    <select id="selectAttr" multiple ng:model="SelectedAttributes" ng:options="attr.Id as attr.Name for attr in attributes" style="min-width: 250px; height: 100px;"></select>
+                                    <br /><br />
+                                    <button type="button" id="btnGenerateVariations" ng-click="generateVariations()" class="btn btn-primary">Generate Color & Size Variations</button>
+                                    <br /><br />
+                                    <div id="tbl-variations"></div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <br />
+                    <div class="section-container">
+                        <div class="s-title">
+                            <span class="product-post-section-text">Add Product Images</span>
+                        </div>
+                        <div class="s-body">
+
+                            <div class="row">
+                                <div class="col-md-2">
+                                    <div class="cancel-div">
+                                        <span id="btnPhotoCancel1" class="btn-clear">
+                                            <i class="icon-cancel" style="font-size: 18px;"></i>
+                                        </span>
+                                    </div>
+                                    <div class="fileUpload btn btn-upload-1 btn-primary center">
+                                        <span>+ Add Image</span>
+                                        <input id="inputFile1" type="file" class="upload" name="file" accept="image/*" onchange="angular.element(this).scope().selectPhoto1(this.files)" />
+                                    </div>
+                                    <div class="product-img-client">
+                                        <img id="productImage1" style="height: 100%; width: 100%; background-color: #f1f1f2;" src="" />
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="cancel-div">
+                                        <span id="btnPhotoCancel2" class="btn-clear">
+                                            <i class="icon-cancel" style="font-size: 18px;"></i>
+                                        </span>
+                                    </div>
+                                    <div class="fileUpload btn btn-upload-2 btn-primary center">
+                                        <span>+ Add Image</span>
+                                        <input id="inputFile2" type="file" class="upload" name="file" accept="image/*" onchange="angular.element(this).scope().selectPhoto2(this.files)" />
+                                    </div>
+                                    <div class="product-img-client">
+                                        <img id="productImage2" style="height: 100%; width: 100%; background-color: #f1f1f2;" src="" />
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="cancel-div">
+                                        <span id="btnPhotoCancel3" class="btn-clear">
+                                            <i class="icon-cancel" style="font-size: 18px;"></i>
+                                        </span>
+                                    </div>
+                                    <div class="fileUpload btn btn-upload-3 btn-primary center">
+                                        <span>+ Add Image</span>
+                                        <input id="inputFile3" type="file" class="upload" name="file" accept="image/*" onchange="angular.element(this).scope().selectPhoto3(this.files)" />
+                                    </div>
+                                    <div class="product-img-client">
+                                        <img id="productImage3" style="height: 100%; width: 100%; background-color: #f1f1f2;" src="" />
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="cancel-div">
+                                        <span id="btnPhotoCancel4" class="btn-clear">
+                                            <i class="icon-cancel"></i>
+                                        </span>
+                                    </div>
+                                    <div class="fileUpload btn btn-upload-4 btn-primary center">
+                                        <span>+ Add Image</span>
+                                        <input id="inputFile4" type="file" class="upload" name="file" accept="image/*" onchange="angular.element(this).scope().selectPhoto4(this.files)" />
+                                    </div>
+                                    <div class="product-img-client">
+                                        <img id="productImage4" style="height: 100%; width: 100%; background-color: #f1f1f2;" src="" />
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="cancel-div">
+                                        <span id="btnPhotoCancel5" class="btn-clear">
+                                            <i class="icon-cancel"></i>
+                                        </span>
+                                    </div>
+                                    <div class="fileUpload btn btn-upload-5 btn-primary center">
+                                        <span>+ Add Image</span>
+                                        <input id="inputFile5" type="file" class="upload" name="file" accept="image/*" onchange="angular.element(this).scope().selectPhoto5(this.files)" />
+                                    </div>
+                                    <div class="product-img-client">
+                                        <img id="productImage5" style="height: 100%; width: 100%; background-color: #f1f1f2;" src="" />
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div>
+                                        <div class="cancel-div">
+                                            <span id="btnPhotoCancel6" class="btn-clear">
+                                                <i class="icon-cancel"></i>
+                                            </span>
+                                        </div>
+                                        <div class="fileUpload btn btn-upload-6 btn-primary center">
+                                            <span>+ Add Image</span>
+                                            <input id="inputFile6" type="file" class="upload" name="file" accept="image/*" onchange="angular.element(this).scope().selectPhoto6(this.files)" />
+                                        </div>
+                                        <div class="product-img-client">
+                                            <img id="productImage6" style="height: 100%; width: 100%; background-color: #f1f1f2;" src="" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+
+                    <div class="center">
+                        <a id="btnPostProduct" class="btn btn-default btn-submit" style="color: #fff;" ng-click="postProduct()">Save Product</a>
+                        <div class="post-product-status" style="padding-top: 10px; display: none;">
+                            <img src="~/Images/ajax-loader-small.gif" />
+                            <span style="font-weight: 600;">Posting Your Product...</span>
+                        </div>
+                    </div>
+                    <br />
+                    <br />
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

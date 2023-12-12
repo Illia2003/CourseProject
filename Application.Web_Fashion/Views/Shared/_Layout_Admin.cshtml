@@ -1,0 +1,82 @@
+﻿@{
+    Layout = "_Layout.cshtml";
+}
+
+<style type="text/css">
+    .refine-search-container {
+        border: 1px solid #dcdcdc;
+        background-color: #fff;
+    }
+    .filter-container {
+        margin-bottom: 10px;
+    }
+    .filter-header {
+        padding: 4px;
+        background-color: #dcdcdc;
+    }
+    .filter-content {
+        padding: 4px;
+        padding-top: 8px;
+        padding-left: 10px;
+    }
+    .admin-menu-active {
+        background-color: whitesmoke;
+    }
+    .inner-list-container li{
+        border-bottom: 1px solid #dcdcdc;
+        padding-top:6px;
+        padding-bottom:6px;
+    }
+</style>
+
+@section scripts {
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.inner-list-container a').each(function (index) {
+                if (this.href.trim() == window.location) {
+                    $('.admin-menu-active', '.inner-list-container').removeClass('admin-menu-active');
+                    $(this).parent().addClass("admin-menu-active");
+                }
+            });
+        });
+    </script>
+}
+
+<div class="container admin-container" style="margin-top: 20px;">
+    <div class="row">
+        <div class="col-sm-3" style="margin-bottom: 20px;">
+            <div class="refine-search-container">
+                <div class="filter-container">
+                    <div class="filter-header" style="text-align: center;">
+                        <span style="font-size: 15px;"><b>Administration</b></span>
+                    </div>
+                    <div class="filter-content">
+                        <ul class="inner-list-container">
+                            <li><a href="/Admin/Category"><i class="icon-edit"></i> Categories</a></li>
+                            <li><a href="/Admin/Location"><i class="icon-edit"></i> Locations</a></li>                            
+                            <li id="productVerify"><a href="/Admin/ProductVerify?load=all"><i class="icon-edit"></i> Verify Products</a></li>
+                            <li style="border-bottom:0;"><a href="/Admin/PhotoVerify?load=all"><i class="icon-edit"></i> Verify Images</a></li>
+                            @*@{
+                            if (User.IsInRole("admin"))
+                            {
+                                <li class="divider" style="padding: 1px; margin: 5px; background-color: #dcdcdc; "></li>                                
+                                <li id="paymentTran"><a href="/Admin/PaymentTrasaction"><i class="icon-chart-bar"></i> Payment Transaction</a></li>
+                                <li id="paymentTran"><a href="/Admin/CreatePaidMember"><i class="icon-dollar"></i> Create Paid Member</a></li>
+                            }
+                            }
+                            <li class="divider" style="padding: 1px; margin: 5px; background-color: #dcdcdc; "></li>
+                            <li><a href="/Notification/Index"><i class="icon-mail-1"></i> Email Notification</a></li>*@
+
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="col-sm-9">
+            <div style="background-color: #fff; padding: 10px; min-height: 200px;">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+</div>

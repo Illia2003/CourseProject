@@ -1,0 +1,213 @@
+﻿
+@{
+    ViewBag.Title = Localizer["Shopping Cart"];
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script src="https://js.stripe.com/v3/"></script>
+
+<div id="div-place-order" class="container">
+    <div class="row">
+        <div class="col-md-12" style="text-align:center; padding:20px;">
+            <span style=" font-size: 24px; font-weight: 600;">@Localizer["Shopping Cart"]</span>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-8">
+            <div style="">
+                <div class="shopping-cart-container"></div>
+                <div class="shopping-cart-buttons"  style="padding: 10px; background-color: #f2f2f2; border:1px solid #dcdcdc; border-top:0;">
+                    <button id="btnUpdateCart" style="float:right; margin-left:10px;" class="btn btn-primary">@Localizer["Update Cart"]</button>
+                    &nbsp;<button id="btnClearCart" style="float:right;" class="btn btn-default">@Localizer["Clear Cart"]</button>
+                    <a href="/Home" class="btn btn-warning btn-continue-shopping">@Localizer["Continue Shopping"]</a>
+                </div>
+            </div>
+            <div id="customer-address-section" class="customer-address" style="margin-top:20px; background-color: #fff; border:1px solid #dcdcdc;">
+                <div style="border-bottom: 1px solid #dcdcdc; padding: 10px; background-color: #f2f2f2; ">
+                    <span style="font-weight:600;">@Localizer["My Address"]</span>
+                </div>
+                <div style="padding:20px;">
+
+                    <div class="form-group">
+                        <div class="row">
+                            <span class="col-sm-3 right">@Localizer["Name"]:</span>
+                            <div class="col-sm-8">
+                                <input type="text" id="firstName" class="form-control" placeholder="@Localizer["Enter Your Name"]" style="height: 30px;" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <span class="col-sm-3 right">@Localizer["Mobile"]:</span>
+                            <div class="col-sm-8">
+                                <input type="text" id="mobile" disabled="disabled" class="form-control" placeholder="@Localizer["Enter Your Mobile"]" style="height: 30px;" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <span class="col-sm-3 right">@Localizer["City"]:</span>
+                            <div class="col-sm-4">
+                                <input type="text" id="city" placeholder="@Localizer["Enter City"]" class="form-control" style="height: 30px;" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <span class="col-sm-3 right">@Localizer["State"]:</span>
+                            <div class="col-sm-4">
+                                <input type="text" id="state" placeholder="@Localizer["Enter State"]" class="form-control" style="height: 30px;" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <span class="col-sm-3 right">@Localizer["Postal Code"]:</span>
+                            <div class="col-sm-4">
+                                <input type="text" id="zip" placeholder="@Localizer["Enter Postal Code"]" class="form-control" style="height: 30px;" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <span class="col-sm-3 right">@Localizer["Address"]:</span>
+                            <div class="col-sm-8">
+                                <textarea id="address" placeholder="@Localizer["Enter Address (House number, street, town/village)"]" class="form-control" rows="3"></textarea>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="row">
+                            <span class="col-sm-3 right"></span>
+                            <div class="col-sm-8">
+                                <button id="btnUpdateAddress" class="btn btn-primary">@Localizer["Update Address"]</button>
+                                <span style="margin-left:10px;" id="updateStatus"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>                         
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div style="padding:10px; background-color:#fff; border:1px solid #dcdcdc; font-size:14px;">
+                <table class="tbl-checkout-total">
+                    <tr>
+                        <td>@Localizer["Subtotal"]:</td>
+                        <td class="right"><span id="checkout-subTotal"></span></td>
+                    </tr>
+                    <tr style="border-bottom: 1px solid #dcdcdc;">
+                        <td>@Localizer["Vat / Tax"] <span id="vatPerc"></span> :</td>
+                        <td class="right"><span id="checkout-vatAmount"></span></td>
+                    </tr>
+                    <tr style="border-bottom: 1px solid #dcdcdc;" class="shipping-cost">
+                        <td>@Localizer["Shipping Cost"]:</td>
+                        <td class="right"><span id="checkout-shippingAmount"></span></td>
+                    </tr>
+                    <tr style=" color: #97c300; font-size: 20px; font-weight: 700;">
+                        <td>@Localizer["Total"]:</td>
+                        <td class="right"><span id="checkout-grandTotal"></span></td>
+                    </tr>
+                    @*<tr class="shipping-cost-note" style="border-top: 1px solid #dcdcdc;">
+                        <td colspan="2">Note: Shipping charge will be added based on location and weight</td>
+                    </tr>*@
+                    
+                </table>
+            </div>
+
+            <div id="div-payment-option" style="border:1px solid #dcdcdc; margin-top:10px; background-color: #fff; font-size:14px;">
+                <div style="border-bottom: 1px solid #dcdcdc; background-color: #f2f2f2; padding: 10px;">
+                    <span style="font-weight:600;">@Localizer["Payment Options"]</span>
+                </div>
+                <div style="padding:10px;">
+                    <div>                        
+                        <label>
+                            <input id="rbCod" type="radio" name="paymentBy" checked="checked" value="cod" required>
+                            @Localizer["Cash On Delivery"]
+                        </label>
+                        <label class="padd-left-10">
+                            <input id="rbCard" type="radio" name="paymentBy" value="card" required>
+                            @Localizer["Payment By Card"]
+                        </label>
+                        <span ng-show="myForm.condition.$invalid && submitted" class="help-block">@Localizer["Choose product condition"]</span>
+                    </div>
+                </div>
+            </div>
+
+            <div id="div-payment-option" style="border:1px solid #dcdcdc; margin-top:10px; background-color: #fff; font-size:14px; padding:20px;">
+                <button id="btnPlaceOrder" class="bm-button theme-back-color" style="width:100%;">@Localizer["Place Order"]</button>
+                <div id="place-order-loader" style="margin-top:10px; font-size:14px; display:none;">@Localizer["Placing order..."]</div>
+            </div>
+
+        </div>
+    </div>        
+</div>
+
+<div id="div-confirm-order" class="container" style="display:none;">
+    <div class="row">
+        <div class="col-md-12" style="text-align:center; padding:20px;">
+            <span style=" font-size: 24px; font-weight: 600;">@Localizer["Confirm Your Order"]</span>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12" style="text-align:center; padding-bottom:20px;">
+            <div style="border: 1px solid #dcdcdc; border-bottom:0; background-color: #f2f2f2; padding: 10px;">
+                <span style="font-weight:600; font-size:15px;">@Localizer["You Shipping Address"]</span>
+                <a id="btnEditAddr" style="float:right; color: blue; cursor:pointer;">@Localizer["Edit Address"]</a>
+            </div>
+            <div style="background-color: #fff; border-top: 0;">
+                <table class="tbl-address-confirm">
+                    <tr>
+                        <td class="caption-lable" style="width:170px;">@Localizer["Name"]</td>
+                        <td><span id="showFirstName"></span></td>
+                    </tr>
+                    <tr>
+                        <td class="caption-lable">@Localizer["Username"]</td>
+                        <td><span id="showMobile"></span></td>
+                    </tr>
+                    <tr>
+                        <td class="caption-lable">@Localizer["City"]</td>
+                        <td><span id="showCity"></span></td>
+                    </tr>
+                    <tr>
+                        <td class="caption-lable">@Localizer["State"]</td>
+                        <td><span id="showState"></span></td>
+                    </tr>
+                    <tr>
+                        <td class="caption-lable">@Localizer["Postal Code"]</td>
+                        <td><span id="showZipCode"></span></td>
+                    </tr>
+                    <tr>
+                        <td class="caption-lable">@Localizer["Address"]</td>
+                        <td><span id="showAddress"></span></td>
+                    </tr>
+
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12" style="text-align:center; padding-bottom:20px;">
+            <div id="order-item-list"></div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12" style="text-align:right;">
+
+            <button id="btnConfirmOrder" class="btn btn-success" style="float: right; margin-left: 10px;">@Localizer["Confirm Order"]</button>
+
+            <button id="btnBack" class="btn btn-default" style="float: right; margin-left: 10px;">@Localizer["Back"]</button>&nbsp;&nbsp;
+
+            <div id="order-loader" style="float: right; position: relative; top: 4px; font-size: 14px; font-weight: 600; display: none;">
+                <img src="~/Images/ajax_loader_blue_32.gif" />
+                <span>@Localizer["Order is Processing..."]</span>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<br />
+<br />
+

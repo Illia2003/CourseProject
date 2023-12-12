@@ -1,0 +1,61 @@
+﻿.panel{
+    background-color: inherit !important;
+}
+
+.top-header {
+    background: url(/images/top-header-back.png) no-repeat 0 -210px,linear-gradient(to right,rgba(255,56,92,1) 0,rgba(39,68,148,1) 100%) no-repeat 0 0;
+}
+
+#header-search-box {
+    border: 2px solid #FF385C !important;
+}
+
+#header-search-btn {
+    border: 2px solid #FF385C !important;
+    background-color: #FF385C !important;
+}
+
+.btn-filter-price {
+    background-color: #FF385C !important;
+}
+
+.slider .slick-prev:before {
+    color: #FF385C !important;
+}
+
+.slider .slick-next:before {
+    color: #FF385C !important;
+}
+
+.pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover {
+    background-color: #FF385C !important;
+}
+
+.theme-text-color {
+    color: #FF385C !important;
+}
+
+.theme-back-color {
+    background-color: #FF385C !important;
+}
+
+.btn-load-more {
+    color: #FF385C !important;
+    border: 1px solid #FF385C !important;
+}
+
+.tabs li.active {
+    border-top: 2px solid #FF385C !important;
+}
+
+    .tabs li.active a {
+        color: #FF385C !important;
+    }
+
+.top-bar-right a:hover {
+    color: #dcdcdc !important;
+}
+
+.item-basket:hover {
+    background-color: #CC4596;
+}

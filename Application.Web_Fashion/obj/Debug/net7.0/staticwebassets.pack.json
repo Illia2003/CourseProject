@@ -1,0 +1,2725 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Fonts\\font-awesome\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Fonts\\font-awesome\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Fonts\\font-awesome\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Fonts\\font-awesome\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Fonts\\font-awesome\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Fonts\\font-awesome\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Fonts\\font-awesome\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\font-awesome\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Fonts\\font-awesome\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Fonts\\font-awesome\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\Fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\Fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\Fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\Fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Fonts\\slick\\slick.eot",
+      "PackagePath": "staticwebassets\\Fonts\\slick\\slick.eot"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Fonts\\slick\\slick.svg",
+      "PackagePath": "staticwebassets\\Fonts\\slick\\slick.svg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Fonts\\slick\\slick.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\slick\\slick.ttf"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Fonts\\slick\\slick.woff",
+      "PackagePath": "staticwebassets\\Fonts\\slick\\slick.woff"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\637943586059437284.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\637943586059437284.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\637944305390729828.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\637944305390729828.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\637944305614730883.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\637944305614730883.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\637944305799703849.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\637944305799703849.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\637989109854252557.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\637989109854252557.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\637989192365677727.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\637989192365677727.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\637993529937906565.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\637993529937906565.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638004844223226000.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638004844223226000.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638011748829386405.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638011748829386405.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638011749391491215.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638011749391491215.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638011750135196215.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638011750135196215.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638011751125313405.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638011751125313405.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638011752701449527.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638011752701449527.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638011754226318577.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638011754226318577.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638011755079948670.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638011755079948670.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638011755310991187.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638011755310991187.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638011755545325987.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638011755545325987.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638011799651584225.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638011799651584225.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638011799891883544.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638011799891883544.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638011800122308078.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638011800122308078.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638011800820537089.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638011800820537089.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638011801282092274.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638011801282092274.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638011802461211788.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638011802461211788.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638011804763022172.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638011804763022172.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638011820686793042.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638011820686793042.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638011823465527950.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638011823465527950.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638011824299045578.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638011824299045578.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638011959262729787.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638011959262729787.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638254432914014295.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638254432914014295.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638254629398742261.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638254629398742261.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638254730466221651.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638254730466221651.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638256250143483844.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638256250143483844.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638258928377746539.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638258928377746539.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638259849185209942.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638259849185209942.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Barcode\\Orders\\638263837448828153.Jpeg",
+      "PackagePath": "staticwebassets\\Photos\\Barcode\\Orders\\638263837448828153.Jpeg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\174.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\174.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\177.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\177.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\180.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\180.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\186.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\186.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\189.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\189.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\192.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\192.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\198.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\198.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\199.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\199.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\203.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\203.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\207.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\207.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\215.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\215.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\219.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\219.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\230.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\230.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\231.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\231.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\232.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\232.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\233.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\233.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\235.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\235.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\236.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\236.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\Icons\\199.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\Icons\\199.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\Icons\\203.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\Icons\\203.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\Icons\\207.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\Icons\\207.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\Icons\\211.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\Icons\\211.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\Icons\\215.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\Icons\\215.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\Icons\\219.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\Icons\\219.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\Icons\\223.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\Icons\\223.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\Icons\\228.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\Icons\\228.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\Icons\\229.jpg",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\Icons\\229.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\Icons\\circle.png",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\Icons\\circle.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\bread.png",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\bread.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\diary.png",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\diary.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\fish.png",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\fish.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\fruits.png",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\fruits.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\Photos\\Categories\\sweets.png",
+      "PackagePath": "staticwebassets\\Photos\\Categories\\sweets.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\00174388-0014-450e-a7c3-6303237a2647.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\00174388-0014-450e-a7c3-6303237a2647.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\0084ba3a-d713-4c54-9b17-968f68e74637.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\0084ba3a-d713-4c54-9b17-968f68e74637.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\00c9c946-c32e-40b5-9181-dcaeb122c34c.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\00c9c946-c32e-40b5-9181-dcaeb122c34c.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\025dc788-2922-4568-b3b0-51628f31b6d4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\025dc788-2922-4568-b3b0-51628f31b6d4.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\05294c6e-ee08-4e60-ac06-64f47a6e740d.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\05294c6e-ee08-4e60-ac06-64f47a6e740d.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\06457e71-2b74-4147-9570-b6b4633143f8.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\06457e71-2b74-4147-9570-b6b4633143f8.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\07a1047d-f84e-44f6-b7cd-e080c93d6d5e.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\07a1047d-f84e-44f6-b7cd-e080c93d6d5e.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\07c2c57d-448e-4759-b98d-f96c68a81334.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\07c2c57d-448e-4759-b98d-f96c68a81334.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\08ec14da-bd98-4e2d-ac52-85e1ec737547.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\08ec14da-bd98-4e2d-ac52-85e1ec737547.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\0a02c1a6-1ea9-4aa8-8654-c87a3cf1bdba.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\0a02c1a6-1ea9-4aa8-8654-c87a3cf1bdba.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\0b7771e9-8b80-446e-88aa-357aa5df165f.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\0b7771e9-8b80-446e-88aa-357aa5df165f.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\0beca51f-c5a8-4294-a5f9-7c1873978173.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\0beca51f-c5a8-4294-a5f9-7c1873978173.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\0e36df4d-c7c8-4d29-8830-a108683ac5b3.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\0e36df4d-c7c8-4d29-8830-a108683ac5b3.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\0f155dd9-3ebb-4a7e-a4b4-e431411ab5de.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\0f155dd9-3ebb-4a7e-a4b4-e431411ab5de.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\113ac605-76d0-4fdc-bb4a-4c88f999f4bc.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\113ac605-76d0-4fdc-bb4a-4c88f999f4bc.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\151e7dcc-34f5-437d-8a1c-cd2f8eafb1cd.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\151e7dcc-34f5-437d-8a1c-cd2f8eafb1cd.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\169382ed-3c8f-4b0f-8977-5f7b6f56a349.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\169382ed-3c8f-4b0f-8977-5f7b6f56a349.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\1ab20db8-b620-43fb-8c8b-9db85c4bd535.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\1ab20db8-b620-43fb-8c8b-9db85c4bd535.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\1b9c2807-7161-4768-9a2a-66234ac178f4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\1b9c2807-7161-4768-9a2a-66234ac178f4.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\202947f3-439f-4321-9b07-ba39f483222c.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\202947f3-439f-4321-9b07-ba39f483222c.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\24cf4ff8-52ff-4643-95e6-48fe945f1bd4.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\24cf4ff8-52ff-4643-95e6-48fe945f1bd4.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\271a055e-f0bd-419d-bae8-87e18bf52a18.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\271a055e-f0bd-419d-bae8-87e18bf52a18.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\2ac27b6d-a394-4f24-91a8-40c9caa0dc3e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\2ac27b6d-a394-4f24-91a8-40c9caa0dc3e.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\2c1d3246-9221-4acf-96c3-38238b95175f.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\2c1d3246-9221-4acf-96c3-38238b95175f.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\2e96843f-b1d7-4d6f-aa7f-4019c3c3d318.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\2e96843f-b1d7-4d6f-aa7f-4019c3c3d318.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\2ecfc3aa-c220-43ce-aa4d-06e7d8bd25e8.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\2ecfc3aa-c220-43ce-aa4d-06e7d8bd25e8.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\2f54504b-ca9b-43b5-8c45-60cb375be03d.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\2f54504b-ca9b-43b5-8c45-60cb375be03d.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\30f3e951-c52b-4531-bb58-0b40bd3a8d87.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\30f3e951-c52b-4531-bb58-0b40bd3a8d87.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\3114ea56-10f7-4b6f-afd6-5f5481e3aefa.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\3114ea56-10f7-4b6f-afd6-5f5481e3aefa.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\3300875d-f985-420e-8053-df58f1c1d3ec.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\3300875d-f985-420e-8053-df58f1c1d3ec.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\353ce4d3-a709-4a61-af6c-a2366580834e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\353ce4d3-a709-4a61-af6c-a2366580834e.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\358e7a74-26a5-41f9-aa15-4348d7620744.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\358e7a74-26a5-41f9-aa15-4348d7620744.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\368fbd83-559b-4509-8afb-8cd3ebcd5d65.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\368fbd83-559b-4509-8afb-8cd3ebcd5d65.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\37f9ddd2-06e9-4feb-951b-80efa4e42998.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\37f9ddd2-06e9-4feb-951b-80efa4e42998.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\38d6ced4-5789-463f-a829-adb5a7f4d03a.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\38d6ced4-5789-463f-a829-adb5a7f4d03a.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\38f6614c-efb7-4067-b18b-3a0d35d4cdca.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\38f6614c-efb7-4067-b18b-3a0d35d4cdca.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\3b46f57a-106f-4c24-88d6-25ea254f3048.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\3b46f57a-106f-4c24-88d6-25ea254f3048.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\3d71497f-6b57-43ba-b052-f42c5b422c63.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\3d71497f-6b57-43ba-b052-f42c5b422c63.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\3f1b022e-33a2-45ff-859f-765b21657d1d.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\3f1b022e-33a2-45ff-859f-765b21657d1d.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\3ff69301-6bc4-454a-9c4c-54ed31d9e89d.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\3ff69301-6bc4-454a-9c4c-54ed31d9e89d.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\40371453-47a2-4beb-9ee9-05d526eac6e0.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\40371453-47a2-4beb-9ee9-05d526eac6e0.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\41c7b5f6-8d4c-40f4-9295-edce7a7862cc.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\41c7b5f6-8d4c-40f4-9295-edce7a7862cc.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\426ac080-8155-4304-b3ef-37e2af9fd94e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\426ac080-8155-4304-b3ef-37e2af9fd94e.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\44645f28-b7f3-419c-b3ea-3464b5e88af1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\44645f28-b7f3-419c-b3ea-3464b5e88af1.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\45075052-9534-4010-9081-e2046d1f4fcb.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\45075052-9534-4010-9081-e2046d1f4fcb.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\456cd92e-c021-4f03-92d3-e635ec4a54e3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\456cd92e-c021-4f03-92d3-e635ec4a54e3.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\467b6e69-71e3-490b-96b2-014cc54fb874.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\467b6e69-71e3-490b-96b2-014cc54fb874.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\477602a5-bf25-4b12-b60c-2ec385af724c.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\477602a5-bf25-4b12-b60c-2ec385af724c.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\47fdbfbd-4a1b-47c8-a517-4289627fe2db.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\47fdbfbd-4a1b-47c8-a517-4289627fe2db.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\4f64e855-88c5-4c69-8756-2bf46e4f8b82.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\4f64e855-88c5-4c69-8756-2bf46e4f8b82.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\50030365-c971-4a65-8d0b-47cf0bf1a15e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\50030365-c971-4a65-8d0b-47cf0bf1a15e.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\529e36a3-34fd-4619-926d-6d35c8c40ccc.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\529e36a3-34fd-4619-926d-6d35c8c40ccc.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\533bded7-361d-4049-a0de-632422bde7f8.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\533bded7-361d-4049-a0de-632422bde7f8.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\542964b0-873f-4706-9a28-caa56a64e322.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\542964b0-873f-4706-9a28-caa56a64e322.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\55dd98a0-61b3-4c41-a7b6-c957a2bfaa18.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\55dd98a0-61b3-4c41-a7b6-c957a2bfaa18.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\5781070e-8fee-4935-ab22-a06a12664afe.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\5781070e-8fee-4935-ab22-a06a12664afe.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\578775a7-0b03-4d73-b0ee-de97a7b15a55.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\578775a7-0b03-4d73-b0ee-de97a7b15a55.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\5b13493e-a392-4f8a-8deb-623be50cdc42.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\5b13493e-a392-4f8a-8deb-623be50cdc42.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\5be8c583-4f95-4d6e-a9c2-8d9412aab780.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\5be8c583-4f95-4d6e-a9c2-8d9412aab780.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\5c6ae777-acc3-4914-be04-2a6e15deb462.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\5c6ae777-acc3-4914-be04-2a6e15deb462.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\5d2cad53-4063-4463-aad7-d6f3fe921043.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\5d2cad53-4063-4463-aad7-d6f3fe921043.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\5d881793-67ea-435f-a505-3224b1546d7b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\5d881793-67ea-435f-a505-3224b1546d7b.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\5d9258a3-ef78-4d69-8c4c-a3191de59f9c.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\5d9258a3-ef78-4d69-8c4c-a3191de59f9c.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\5de562c8-0a4a-4c28-a55d-7212d3c9be86.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\5de562c8-0a4a-4c28-a55d-7212d3c9be86.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\5fb6d366-5f51-422e-9fa1-6911cb0ee155.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\5fb6d366-5f51-422e-9fa1-6911cb0ee155.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\620f155d-b531-4719-bd06-8e3b1a117b4f.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\620f155d-b531-4719-bd06-8e3b1a117b4f.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\62377618-4cc8-4cc0-9598-af90591d2b6e.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\62377618-4cc8-4cc0-9598-af90591d2b6e.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\64c2a683-e9a5-4c92-acb8-3e2e3065138b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\64c2a683-e9a5-4c92-acb8-3e2e3065138b.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\67604568-4faa-4b51-a720-dd93dcf323d1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\67604568-4faa-4b51-a720-dd93dcf323d1.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\68c27b46-436f-4ac3-828b-7b95e3fa60aa.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\68c27b46-436f-4ac3-828b-7b95e3fa60aa.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\6a5e2289-6aa1-4f43-843c-2d53858e4238.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\6a5e2289-6aa1-4f43-843c-2d53858e4238.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\6b2ad92e-ec3f-403b-9560-4bb042387db9.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\6b2ad92e-ec3f-403b-9560-4bb042387db9.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\6c8d3674-c3ea-4a1c-bc1d-fe2e4c01e74b.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\6c8d3674-c3ea-4a1c-bc1d-fe2e4c01e74b.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\7013040a-27a4-4df3-b86c-ef868d2ddffa.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\7013040a-27a4-4df3-b86c-ef868d2ddffa.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\71230a0d-6734-4eb4-9f20-77b5373b9921.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\71230a0d-6734-4eb4-9f20-77b5373b9921.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\7267e6aa-9207-4a81-8bd7-63864964451c.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\7267e6aa-9207-4a81-8bd7-63864964451c.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\72be6806-be6b-48f4-959d-5745179b48a9.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\72be6806-be6b-48f4-959d-5745179b48a9.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\72c236df-979d-4258-a52c-bf189b8b189b.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\72c236df-979d-4258-a52c-bf189b8b189b.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\7416c1b2-bc71-4d94-a584-8a5b0a3c7314.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\7416c1b2-bc71-4d94-a584-8a5b0a3c7314.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\747c0c56-1cee-4bc3-947d-928e382d5c83.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\747c0c56-1cee-4bc3-947d-928e382d5c83.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\74b1bd5d-cd7b-49aa-beae-a539e56f8fde.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\74b1bd5d-cd7b-49aa-beae-a539e56f8fde.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\75461859-316e-4a5b-812c-ec48fa7ce80a.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\75461859-316e-4a5b-812c-ec48fa7ce80a.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\761ba73f-4284-46a2-b607-9165dadfbf18.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\761ba73f-4284-46a2-b607-9165dadfbf18.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\79eaf9ce-afd0-4223-bc2c-52940bd36580.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\79eaf9ce-afd0-4223-bc2c-52940bd36580.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\7db8af27-c326-4bf6-88ed-f13ed5a2b089.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\7db8af27-c326-4bf6-88ed-f13ed5a2b089.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\818a99aa-ba5a-4ff8-8c28-7c327821cf9d.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\818a99aa-ba5a-4ff8-8c28-7c327821cf9d.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\8243ecfe-e59d-4820-926c-2dd6409f850e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\8243ecfe-e59d-4820-926c-2dd6409f850e.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\8552e91f-5a45-4189-b8a7-97afcb73b457.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\8552e91f-5a45-4189-b8a7-97afcb73b457.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\8634bcdd-b478-4f0a-b681-5a34ca637f78.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\8634bcdd-b478-4f0a-b681-5a34ca637f78.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\88c89f08-f37e-4f14-bb8c-95f7fce95033.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\88c89f08-f37e-4f14-bb8c-95f7fce95033.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\8b081ebc-100c-43e9-a455-536511b42dd5.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\8b081ebc-100c-43e9-a455-536511b42dd5.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\8b7b16c4-2a89-4bb9-9277-df102897947c.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\8b7b16c4-2a89-4bb9-9277-df102897947c.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\8e5a56b2-a1f0-4dc2-8f84-55da5d9c970b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\8e5a56b2-a1f0-4dc2-8f84-55da5d9c970b.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\8e8f218b-5986-424b-ab6c-755f3db41dd4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\8e8f218b-5986-424b-ab6c-755f3db41dd4.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\8f59649b-fae5-42f5-be49-92c3d9b12ab4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\8f59649b-fae5-42f5-be49-92c3d9b12ab4.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\901de03a-2fa0-43ac-9538-8f68c72c6d88.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\901de03a-2fa0-43ac-9538-8f68c72c6d88.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\90d87d3b-a061-4926-9fa7-b3e0dd06e483.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\90d87d3b-a061-4926-9fa7-b3e0dd06e483.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\93a7d561-83c0-43fa-80ea-f189daaa1f59.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\93a7d561-83c0-43fa-80ea-f189daaa1f59.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\953ea915-fcd2-45fa-a311-c6a431a46943.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\953ea915-fcd2-45fa-a311-c6a431a46943.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\9c5629b1-ffe9-40b2-8f68-2efeb51f2ee9.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\9c5629b1-ffe9-40b2-8f68-2efeb51f2ee9.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\9d760ad4-4557-487c-b77b-284aa26113d0.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\9d760ad4-4557-487c-b77b-284aa26113d0.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\9fa5621a-65d0-41ec-8c3c-f311ff83e412.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\9fa5621a-65d0-41ec-8c3c-f311ff83e412.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\a08b6d96-075c-46d6-9c3a-c8ede97b6f26.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\a08b6d96-075c-46d6-9c3a-c8ede97b6f26.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\a2015a25-9a3f-46d0-ad5c-1c4f166088c6.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\a2015a25-9a3f-46d0-ad5c-1c4f166088c6.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\a3751555-a244-489e-b1cf-0c7c502b6372.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\a3751555-a244-489e-b1cf-0c7c502b6372.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\a8a8ba9c-7f08-4e5b-950f-b35fb711e7b7.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\a8a8ba9c-7f08-4e5b-950f-b35fb711e7b7.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\ad334e61-c7a3-47d4-b632-9e309be7973a.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\ad334e61-c7a3-47d4-b632-9e309be7973a.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\b2093124-9575-4d08-9b97-bcf2f4f6dc6d.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\b2093124-9575-4d08-9b97-bcf2f4f6dc6d.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\b3b75176-7a6b-47f3-89bf-627f67398683.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\b3b75176-7a6b-47f3-89bf-627f67398683.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\b3f57f85-0b9f-412d-a02d-33c05823971d.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\b3f57f85-0b9f-412d-a02d-33c05823971d.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\b4830d84-5b46-4914-9ea2-3b3753ce1855.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\b4830d84-5b46-4914-9ea2-3b3753ce1855.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\b696734d-c513-4d99-94c5-1df8b5952919.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\b696734d-c513-4d99-94c5-1df8b5952919.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\bb169703-8c3a-4949-a5a1-3688eff21001.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\bb169703-8c3a-4949-a5a1-3688eff21001.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\bc6d00d6-4697-45ac-8bcb-a59cc71561e4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\bc6d00d6-4697-45ac-8bcb-a59cc71561e4.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\bc97cfe1-bfad-4152-b804-c668c5c243a8.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\bc97cfe1-bfad-4152-b804-c668c5c243a8.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\bde11d9a-34b3-4128-b9b2-13423469cc7c.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\bde11d9a-34b3-4128-b9b2-13423469cc7c.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\c43326fd-b1cd-4f54-8f52-0bb48ad74269.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\c43326fd-b1cd-4f54-8f52-0bb48ad74269.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\c557c1d5-1720-47a0-a19a-05b89b7b721e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\c557c1d5-1720-47a0-a19a-05b89b7b721e.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\c6b07c60-ccee-452f-ada0-1ae6674d6227.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\c6b07c60-ccee-452f-ada0-1ae6674d6227.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\c88a1524-1f42-4ff4-b1bd-85c930cd4e5c.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\c88a1524-1f42-4ff4-b1bd-85c930cd4e5c.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\c9651095-b087-49d6-91d6-1f62aa0150ea.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\c9651095-b087-49d6-91d6-1f62aa0150ea.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\c9e273be-03a0-409b-8451-cdf86f995ed3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\c9e273be-03a0-409b-8451-cdf86f995ed3.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\ca07a507-30dc-4621-adc7-f10a10d47892.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\ca07a507-30dc-4621-adc7-f10a10d47892.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\cafdda9f-83e2-423d-aede-12c41619ef4a.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\cafdda9f-83e2-423d-aede-12c41619ef4a.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\cd9b5c8b-a48d-4a64-b7da-a4f456c454dd.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\cd9b5c8b-a48d-4a64-b7da-a4f456c454dd.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\d237b8b4-df0d-488b-a49d-59b9af15b17d.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\d237b8b4-df0d-488b-a49d-59b9af15b17d.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\d651c746-39d1-47c9-9604-65496717c271.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\d651c746-39d1-47c9-9604-65496717c271.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\d9e6663e-cc1f-418c-85ac-63267123043a.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\d9e6663e-cc1f-418c-85ac-63267123043a.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\dfd966f7-3da5-4003-ac5a-5a83037a5176.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\dfd966f7-3da5-4003-ac5a-5a83037a5176.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\e2db4744-f0a1-478d-b106-2261a5187c72.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\e2db4744-f0a1-478d-b106-2261a5187c72.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\e4c97c4c-d649-484a-83be-7ca1b239edc7.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\e4c97c4c-d649-484a-83be-7ca1b239edc7.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\ea299568-08ef-4014-bd43-725b21563128.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\ea299568-08ef-4014-bd43-725b21563128.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\ea962c26-40f5-44eb-9803-bbfa33e598de.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\ea962c26-40f5-44eb-9803-bbfa33e598de.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\eac1a24b-c145-485c-a5c8-500667313bb7.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\eac1a24b-c145-485c-a5c8-500667313bb7.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\eb979ac9-06cd-463d-9d70-50f8a0b97add.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\eb979ac9-06cd-463d-9d70-50f8a0b97add.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\ec352d91-35ea-497b-a21d-a556c6128335.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\ec352d91-35ea-497b-a21d-a556c6128335.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\ed03e28f-1193-456a-b5a7-1760ae097c52.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\ed03e28f-1193-456a-b5a7-1760ae097c52.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\ef1f6627-ce25-44a1-93ae-98bffd036d9a.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\ef1f6627-ce25-44a1-93ae-98bffd036d9a.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\f0bcac2f-da9e-41c8-8916-ec9b0d3c51b0.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\f0bcac2f-da9e-41c8-8916-ec9b0d3c51b0.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\f5706d76-28de-49c7-8afb-5f5eb508d286.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\f5706d76-28de-49c7-8afb-5f5eb508d286.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\f5cca647-3211-47ed-9589-aed4faf01f94.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\f5cca647-3211-47ed-9589-aed4faf01f94.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\f8f68447-6655-4bba-b6ab-7c6c87bf5d68.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\f8f68447-6655-4bba-b6ab-7c6c87bf5d68.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\f9084bb6-9e78-4a1b-97fd-a7085588ac3e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\f9084bb6-9e78-4a1b-97fd-a7085588ac3e.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\fb061a82-0e9e-4a32-8c56-e1e188c95558.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\fb061a82-0e9e-4a32-8c56-e1e188c95558.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\fd42283a-7b09-4be9-b510-fc6925cda931.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\fd42283a-7b09-4be9-b510-fc6925cda931.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Large\\fdedabd8-b818-4d93-b170-c3f8dbbf6f0d.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Large\\fdedabd8-b818-4d93-b170-c3f8dbbf6f0d.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\00174388-0014-450e-a7c3-6303237a2647.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\00174388-0014-450e-a7c3-6303237a2647.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\0084ba3a-d713-4c54-9b17-968f68e74637.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\0084ba3a-d713-4c54-9b17-968f68e74637.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\00c9c946-c32e-40b5-9181-dcaeb122c34c.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\00c9c946-c32e-40b5-9181-dcaeb122c34c.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\015a8573-08e4-4678-be29-884c582ba67f.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\015a8573-08e4-4678-be29-884c582ba67f.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\025dc788-2922-4568-b3b0-51628f31b6d4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\025dc788-2922-4568-b3b0-51628f31b6d4.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\05294c6e-ee08-4e60-ac06-64f47a6e740d.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\05294c6e-ee08-4e60-ac06-64f47a6e740d.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\06457e71-2b74-4147-9570-b6b4633143f8.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\06457e71-2b74-4147-9570-b6b4633143f8.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\06cd46ea-cebf-40f9-95e8-6cbf0e945f62.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\06cd46ea-cebf-40f9-95e8-6cbf0e945f62.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\07a1047d-f84e-44f6-b7cd-e080c93d6d5e.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\07a1047d-f84e-44f6-b7cd-e080c93d6d5e.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\07c2c57d-448e-4759-b98d-f96c68a81334.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\07c2c57d-448e-4759-b98d-f96c68a81334.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\08ec14da-bd98-4e2d-ac52-85e1ec737547.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\08ec14da-bd98-4e2d-ac52-85e1ec737547.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\0b7771e9-8b80-446e-88aa-357aa5df165f.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\0b7771e9-8b80-446e-88aa-357aa5df165f.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\0beca51f-c5a8-4294-a5f9-7c1873978173.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\0beca51f-c5a8-4294-a5f9-7c1873978173.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\0e36df4d-c7c8-4d29-8830-a108683ac5b3.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\0e36df4d-c7c8-4d29-8830-a108683ac5b3.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\0f5cb26d-4155-4a12-affe-1c8e45cdb962.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\0f5cb26d-4155-4a12-affe-1c8e45cdb962.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\113ac605-76d0-4fdc-bb4a-4c88f999f4bc.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\113ac605-76d0-4fdc-bb4a-4c88f999f4bc.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\140d7999-52c7-43ce-9af0-2f4317d7c65d.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\140d7999-52c7-43ce-9af0-2f4317d7c65d.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\151e7dcc-34f5-437d-8a1c-cd2f8eafb1cd.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\151e7dcc-34f5-437d-8a1c-cd2f8eafb1cd.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\15690e0a-adca-4cfd-afe6-103399d8cf3b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\15690e0a-adca-4cfd-afe6-103399d8cf3b.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\1ab20db8-b620-43fb-8c8b-9db85c4bd535.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\1ab20db8-b620-43fb-8c8b-9db85c4bd535.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\202947f3-439f-4321-9b07-ba39f483222c.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\202947f3-439f-4321-9b07-ba39f483222c.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\24cf4ff8-52ff-4643-95e6-48fe945f1bd4.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\24cf4ff8-52ff-4643-95e6-48fe945f1bd4.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\2c1d3246-9221-4acf-96c3-38238b95175f.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\2c1d3246-9221-4acf-96c3-38238b95175f.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\2e96843f-b1d7-4d6f-aa7f-4019c3c3d318.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\2e96843f-b1d7-4d6f-aa7f-4019c3c3d318.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\30f3e951-c52b-4531-bb58-0b40bd3a8d87.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\30f3e951-c52b-4531-bb58-0b40bd3a8d87.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\3114ea56-10f7-4b6f-afd6-5f5481e3aefa.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\3114ea56-10f7-4b6f-afd6-5f5481e3aefa.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\3300875d-f985-420e-8053-df58f1c1d3ec.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\3300875d-f985-420e-8053-df58f1c1d3ec.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\353ce4d3-a709-4a61-af6c-a2366580834e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\353ce4d3-a709-4a61-af6c-a2366580834e.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\358e7a74-26a5-41f9-aa15-4348d7620744.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\358e7a74-26a5-41f9-aa15-4348d7620744.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\368fbd83-559b-4509-8afb-8cd3ebcd5d65.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\368fbd83-559b-4509-8afb-8cd3ebcd5d65.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\37f9ddd2-06e9-4feb-951b-80efa4e42998.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\37f9ddd2-06e9-4feb-951b-80efa4e42998.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\38d6ced4-5789-463f-a829-adb5a7f4d03a.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\38d6ced4-5789-463f-a829-adb5a7f4d03a.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\38f6614c-efb7-4067-b18b-3a0d35d4cdca.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\38f6614c-efb7-4067-b18b-3a0d35d4cdca.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\3b46f57a-106f-4c24-88d6-25ea254f3048.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\3b46f57a-106f-4c24-88d6-25ea254f3048.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\3d71497f-6b57-43ba-b052-f42c5b422c63.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\3d71497f-6b57-43ba-b052-f42c5b422c63.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\3f1b022e-33a2-45ff-859f-765b21657d1d.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\3f1b022e-33a2-45ff-859f-765b21657d1d.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\3ff69301-6bc4-454a-9c4c-54ed31d9e89d.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\3ff69301-6bc4-454a-9c4c-54ed31d9e89d.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\40371453-47a2-4beb-9ee9-05d526eac6e0.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\40371453-47a2-4beb-9ee9-05d526eac6e0.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\41c7b5f6-8d4c-40f4-9295-edce7a7862cc.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\41c7b5f6-8d4c-40f4-9295-edce7a7862cc.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\44645f28-b7f3-419c-b3ea-3464b5e88af1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\44645f28-b7f3-419c-b3ea-3464b5e88af1.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\45075052-9534-4010-9081-e2046d1f4fcb.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\45075052-9534-4010-9081-e2046d1f4fcb.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\456cd92e-c021-4f03-92d3-e635ec4a54e3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\456cd92e-c021-4f03-92d3-e635ec4a54e3.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\477602a5-bf25-4b12-b60c-2ec385af724c.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\477602a5-bf25-4b12-b60c-2ec385af724c.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\47fdbfbd-4a1b-47c8-a517-4289627fe2db.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\47fdbfbd-4a1b-47c8-a517-4289627fe2db.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\49a49dca-af1f-4ce0-bffe-b824e9751eef.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\49a49dca-af1f-4ce0-bffe-b824e9751eef.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\50030365-c971-4a65-8d0b-47cf0bf1a15e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\50030365-c971-4a65-8d0b-47cf0bf1a15e.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\529e36a3-34fd-4619-926d-6d35c8c40ccc.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\529e36a3-34fd-4619-926d-6d35c8c40ccc.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\542964b0-873f-4706-9a28-caa56a64e322.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\542964b0-873f-4706-9a28-caa56a64e322.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\55dd98a0-61b3-4c41-a7b6-c957a2bfaa18.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\55dd98a0-61b3-4c41-a7b6-c957a2bfaa18.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\5781070e-8fee-4935-ab22-a06a12664afe.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\5781070e-8fee-4935-ab22-a06a12664afe.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\578775a7-0b03-4d73-b0ee-de97a7b15a55.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\578775a7-0b03-4d73-b0ee-de97a7b15a55.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\57f2fd1d-4e72-4799-b836-4b372aa31715.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\57f2fd1d-4e72-4799-b836-4b372aa31715.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\5b13493e-a392-4f8a-8deb-623be50cdc42.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\5b13493e-a392-4f8a-8deb-623be50cdc42.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\5b5cabfb-b711-4c21-b444-00f806b6e743.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\5b5cabfb-b711-4c21-b444-00f806b6e743.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\5d2cad53-4063-4463-aad7-d6f3fe921043.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\5d2cad53-4063-4463-aad7-d6f3fe921043.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\5d881793-67ea-435f-a505-3224b1546d7b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\5d881793-67ea-435f-a505-3224b1546d7b.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\5de562c8-0a4a-4c28-a55d-7212d3c9be86.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\5de562c8-0a4a-4c28-a55d-7212d3c9be86.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\5e0e1405-c241-4a98-9748-b842f6a61ef1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\5e0e1405-c241-4a98-9748-b842f6a61ef1.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\5fb6d366-5f51-422e-9fa1-6911cb0ee155.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\5fb6d366-5f51-422e-9fa1-6911cb0ee155.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\620f155d-b531-4719-bd06-8e3b1a117b4f.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\620f155d-b531-4719-bd06-8e3b1a117b4f.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\62377618-4cc8-4cc0-9598-af90591d2b6e.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\62377618-4cc8-4cc0-9598-af90591d2b6e.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\68c27b46-436f-4ac3-828b-7b95e3fa60aa.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\68c27b46-436f-4ac3-828b-7b95e3fa60aa.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\6a5e2289-6aa1-4f43-843c-2d53858e4238.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\6a5e2289-6aa1-4f43-843c-2d53858e4238.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\6b2ad92e-ec3f-403b-9560-4bb042387db9.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\6b2ad92e-ec3f-403b-9560-4bb042387db9.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\6c8d3674-c3ea-4a1c-bc1d-fe2e4c01e74b.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\6c8d3674-c3ea-4a1c-bc1d-fe2e4c01e74b.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\7013040a-27a4-4df3-b86c-ef868d2ddffa.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\7013040a-27a4-4df3-b86c-ef868d2ddffa.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\72be6806-be6b-48f4-959d-5745179b48a9.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\72be6806-be6b-48f4-959d-5745179b48a9.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\72c236df-979d-4258-a52c-bf189b8b189b.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\72c236df-979d-4258-a52c-bf189b8b189b.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\72dbfc7b-2076-4ad3-a4d0-c3eeed8d8523.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\72dbfc7b-2076-4ad3-a4d0-c3eeed8d8523.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\7416c1b2-bc71-4d94-a584-8a5b0a3c7314.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\7416c1b2-bc71-4d94-a584-8a5b0a3c7314.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\747c0c56-1cee-4bc3-947d-928e382d5c83.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\747c0c56-1cee-4bc3-947d-928e382d5c83.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\74b1bd5d-cd7b-49aa-beae-a539e56f8fde.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\74b1bd5d-cd7b-49aa-beae-a539e56f8fde.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\75461859-316e-4a5b-812c-ec48fa7ce80a.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\75461859-316e-4a5b-812c-ec48fa7ce80a.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\761ba73f-4284-46a2-b607-9165dadfbf18.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\761ba73f-4284-46a2-b607-9165dadfbf18.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\786e651a-854d-451c-9605-2adacab5b9df.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\786e651a-854d-451c-9605-2adacab5b9df.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\79eaf9ce-afd0-4223-bc2c-52940bd36580.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\79eaf9ce-afd0-4223-bc2c-52940bd36580.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\7db8af27-c326-4bf6-88ed-f13ed5a2b089.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\7db8af27-c326-4bf6-88ed-f13ed5a2b089.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\818a99aa-ba5a-4ff8-8c28-7c327821cf9d.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\818a99aa-ba5a-4ff8-8c28-7c327821cf9d.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\8243ecfe-e59d-4820-926c-2dd6409f850e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\8243ecfe-e59d-4820-926c-2dd6409f850e.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\8552e91f-5a45-4189-b8a7-97afcb73b457.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\8552e91f-5a45-4189-b8a7-97afcb73b457.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\8634bcdd-b478-4f0a-b681-5a34ca637f78.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\8634bcdd-b478-4f0a-b681-5a34ca637f78.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\88c89f08-f37e-4f14-bb8c-95f7fce95033.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\88c89f08-f37e-4f14-bb8c-95f7fce95033.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\8b081ebc-100c-43e9-a455-536511b42dd5.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\8b081ebc-100c-43e9-a455-536511b42dd5.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\8e5a56b2-a1f0-4dc2-8f84-55da5d9c970b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\8e5a56b2-a1f0-4dc2-8f84-55da5d9c970b.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\8f59649b-fae5-42f5-be49-92c3d9b12ab4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\8f59649b-fae5-42f5-be49-92c3d9b12ab4.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\932dae52-5201-41b9-9d4b-35ccb664cb9d.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\932dae52-5201-41b9-9d4b-35ccb664cb9d.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\953ea915-fcd2-45fa-a311-c6a431a46943.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\953ea915-fcd2-45fa-a311-c6a431a46943.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\9c5629b1-ffe9-40b2-8f68-2efeb51f2ee9.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\9c5629b1-ffe9-40b2-8f68-2efeb51f2ee9.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\9d760ad4-4557-487c-b77b-284aa26113d0.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\9d760ad4-4557-487c-b77b-284aa26113d0.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\9fa5621a-65d0-41ec-8c3c-f311ff83e412.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\9fa5621a-65d0-41ec-8c3c-f311ff83e412.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\a08b6d96-075c-46d6-9c3a-c8ede97b6f26.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\a08b6d96-075c-46d6-9c3a-c8ede97b6f26.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\a2015a25-9a3f-46d0-ad5c-1c4f166088c6.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\a2015a25-9a3f-46d0-ad5c-1c4f166088c6.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\a3751555-a244-489e-b1cf-0c7c502b6372.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\a3751555-a244-489e-b1cf-0c7c502b6372.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\a8a8ba9c-7f08-4e5b-950f-b35fb711e7b7.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\a8a8ba9c-7f08-4e5b-950f-b35fb711e7b7.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\ad334e61-c7a3-47d4-b632-9e309be7973a.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\ad334e61-c7a3-47d4-b632-9e309be7973a.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\b2093124-9575-4d08-9b97-bcf2f4f6dc6d.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\b2093124-9575-4d08-9b97-bcf2f4f6dc6d.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\b3b75176-7a6b-47f3-89bf-627f67398683.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\b3b75176-7a6b-47f3-89bf-627f67398683.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\b4830d84-5b46-4914-9ea2-3b3753ce1855.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\b4830d84-5b46-4914-9ea2-3b3753ce1855.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\b696734d-c513-4d99-94c5-1df8b5952919.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\b696734d-c513-4d99-94c5-1df8b5952919.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\bb169703-8c3a-4949-a5a1-3688eff21001.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\bb169703-8c3a-4949-a5a1-3688eff21001.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\bc6d00d6-4697-45ac-8bcb-a59cc71561e4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\bc6d00d6-4697-45ac-8bcb-a59cc71561e4.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\bc97cfe1-bfad-4152-b804-c668c5c243a8.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\bc97cfe1-bfad-4152-b804-c668c5c243a8.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\bde11d9a-34b3-4128-b9b2-13423469cc7c.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\bde11d9a-34b3-4128-b9b2-13423469cc7c.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\c06efb01-71e8-4aef-89fb-cab15de4fe33.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\c06efb01-71e8-4aef-89fb-cab15de4fe33.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\c3a4e375-bc6d-40e9-822f-ea10cfa99c4d.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\c3a4e375-bc6d-40e9-822f-ea10cfa99c4d.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\c43326fd-b1cd-4f54-8f52-0bb48ad74269.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\c43326fd-b1cd-4f54-8f52-0bb48ad74269.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\c557c1d5-1720-47a0-a19a-05b89b7b721e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\c557c1d5-1720-47a0-a19a-05b89b7b721e.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\c6b07c60-ccee-452f-ada0-1ae6674d6227.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\c6b07c60-ccee-452f-ada0-1ae6674d6227.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\c9651095-b087-49d6-91d6-1f62aa0150ea.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\c9651095-b087-49d6-91d6-1f62aa0150ea.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\c9e273be-03a0-409b-8451-cdf86f995ed3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\c9e273be-03a0-409b-8451-cdf86f995ed3.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\ca07a507-30dc-4621-adc7-f10a10d47892.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\ca07a507-30dc-4621-adc7-f10a10d47892.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\cafdda9f-83e2-423d-aede-12c41619ef4a.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\cafdda9f-83e2-423d-aede-12c41619ef4a.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\cd9b5c8b-a48d-4a64-b7da-a4f456c454dd.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\cd9b5c8b-a48d-4a64-b7da-a4f456c454dd.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\d237b8b4-df0d-488b-a49d-59b9af15b17d.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\d237b8b4-df0d-488b-a49d-59b9af15b17d.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\d651c746-39d1-47c9-9604-65496717c271.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\d651c746-39d1-47c9-9604-65496717c271.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\d9e6663e-cc1f-418c-85ac-63267123043a.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\d9e6663e-cc1f-418c-85ac-63267123043a.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\db77d7ae-117b-4d06-803d-d546d3247240.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\db77d7ae-117b-4d06-803d-d546d3247240.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\de797596-b8d4-4add-ab70-bfc6ef74e71a.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\de797596-b8d4-4add-ab70-bfc6ef74e71a.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\dfd966f7-3da5-4003-ac5a-5a83037a5176.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\dfd966f7-3da5-4003-ac5a-5a83037a5176.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\e2db4744-f0a1-478d-b106-2261a5187c72.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\e2db4744-f0a1-478d-b106-2261a5187c72.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\e4c97c4c-d649-484a-83be-7ca1b239edc7.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\e4c97c4c-d649-484a-83be-7ca1b239edc7.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\ea962c26-40f5-44eb-9803-bbfa33e598de.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\ea962c26-40f5-44eb-9803-bbfa33e598de.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\eb979ac9-06cd-463d-9d70-50f8a0b97add.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\eb979ac9-06cd-463d-9d70-50f8a0b97add.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\ec352d91-35ea-497b-a21d-a556c6128335.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\ec352d91-35ea-497b-a21d-a556c6128335.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\ec89f481-c0f9-4d0a-b98b-4bcd32298157.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\ec89f481-c0f9-4d0a-b98b-4bcd32298157.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\ed03e28f-1193-456a-b5a7-1760ae097c52.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\ed03e28f-1193-456a-b5a7-1760ae097c52.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\ef1f6627-ce25-44a1-93ae-98bffd036d9a.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\ef1f6627-ce25-44a1-93ae-98bffd036d9a.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\f3ed759c-0c0d-4ab9-a93e-6962f44325c0.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\f3ed759c-0c0d-4ab9-a93e-6962f44325c0.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\f5706d76-28de-49c7-8afb-5f5eb508d286.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\f5706d76-28de-49c7-8afb-5f5eb508d286.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\f5cca647-3211-47ed-9589-aed4faf01f94.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\f5cca647-3211-47ed-9589-aed4faf01f94.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\f8f68447-6655-4bba-b6ab-7c6c87bf5d68.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\f8f68447-6655-4bba-b6ab-7c6c87bf5d68.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\f9084bb6-9e78-4a1b-97fd-a7085588ac3e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\f9084bb6-9e78-4a1b-97fd-a7085588ac3e.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\fb061a82-0e9e-4a32-8c56-e1e188c95558.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\fb061a82-0e9e-4a32-8c56-e1e188c95558.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\fdedabd8-b818-4d93-b170-c3f8dbbf6f0d.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\fdedabd8-b818-4d93-b170-c3f8dbbf6f0d.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Original\\ffe054fa-ec6f-4168-8919-6f9f296f18fe.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\Original\\ffe054fa-ec6f-4168-8919-6f9f296f18fe.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\07a1047d-f84e-44f6-b7cd-e080c93d6d5e.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\07a1047d-f84e-44f6-b7cd-e080c93d6d5e.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\0b7771e9-8b80-446e-88aa-357aa5df165f.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\0b7771e9-8b80-446e-88aa-357aa5df165f.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\0e36df4d-c7c8-4d29-8830-a108683ac5b3.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\0e36df4d-c7c8-4d29-8830-a108683ac5b3.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\24cf4ff8-52ff-4643-95e6-48fe945f1bd4.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\24cf4ff8-52ff-4643-95e6-48fe945f1bd4.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\368fbd83-559b-4509-8afb-8cd3ebcd5d65.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\368fbd83-559b-4509-8afb-8cd3ebcd5d65.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\38d6ced4-5789-463f-a829-adb5a7f4d03a.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\38d6ced4-5789-463f-a829-adb5a7f4d03a.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\38f6614c-efb7-4067-b18b-3a0d35d4cdca.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\38f6614c-efb7-4067-b18b-3a0d35d4cdca.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\3ff69301-6bc4-454a-9c4c-54ed31d9e89d.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\3ff69301-6bc4-454a-9c4c-54ed31d9e89d.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\40371453-47a2-4beb-9ee9-05d526eac6e0.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\40371453-47a2-4beb-9ee9-05d526eac6e0.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\477602a5-bf25-4b12-b60c-2ec385af724c.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\477602a5-bf25-4b12-b60c-2ec385af724c.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\47fdbfbd-4a1b-47c8-a517-4289627fe2db.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\47fdbfbd-4a1b-47c8-a517-4289627fe2db.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\529e36a3-34fd-4619-926d-6d35c8c40ccc.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\529e36a3-34fd-4619-926d-6d35c8c40ccc.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\62377618-4cc8-4cc0-9598-af90591d2b6e.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\62377618-4cc8-4cc0-9598-af90591d2b6e.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\6c8d3674-c3ea-4a1c-bc1d-fe2e4c01e74b.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\6c8d3674-c3ea-4a1c-bc1d-fe2e4c01e74b.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\7013040a-27a4-4df3-b86c-ef868d2ddffa.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\7013040a-27a4-4df3-b86c-ef868d2ddffa.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\72be6806-be6b-48f4-959d-5745179b48a9.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\72be6806-be6b-48f4-959d-5745179b48a9.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\72c236df-979d-4258-a52c-bf189b8b189b.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\72c236df-979d-4258-a52c-bf189b8b189b.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\7416c1b2-bc71-4d94-a584-8a5b0a3c7314.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\7416c1b2-bc71-4d94-a584-8a5b0a3c7314.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\75461859-316e-4a5b-812c-ec48fa7ce80a.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\75461859-316e-4a5b-812c-ec48fa7ce80a.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\79eaf9ce-afd0-4223-bc2c-52940bd36580.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\79eaf9ce-afd0-4223-bc2c-52940bd36580.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\88c89f08-f37e-4f14-bb8c-95f7fce95033.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\88c89f08-f37e-4f14-bb8c-95f7fce95033.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\a8a8ba9c-7f08-4e5b-950f-b35fb711e7b7.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\a8a8ba9c-7f08-4e5b-950f-b35fb711e7b7.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\bde11d9a-34b3-4128-b9b2-13423469cc7c.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\bde11d9a-34b3-4128-b9b2-13423469cc7c.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\c6b07c60-ccee-452f-ada0-1ae6674d6227.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\c6b07c60-ccee-452f-ada0-1ae6674d6227.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\c9651095-b087-49d6-91d6-1f62aa0150ea.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\c9651095-b087-49d6-91d6-1f62aa0150ea.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\d237b8b4-df0d-488b-a49d-59b9af15b17d.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\d237b8b4-df0d-488b-a49d-59b9af15b17d.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\f5706d76-28de-49c7-8afb-5f5eb508d286.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\f5706d76-28de-49c7-8afb-5f5eb508d286.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\ProductImages\\Shaped\\f5cca647-3211-47ed-9589-aed4faf01f94.png",
+      "PackagePath": "staticwebassets\\ProductImages\\Shaped\\f5cca647-3211-47ed-9589-aed4faf01f94.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\colors\\beige.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\beige.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\colors\\blue.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\blue.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\colors\\cyan.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\cyan.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\colors\\green.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\green.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\colors\\jade.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\jade.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\colors\\orange.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\orange.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\colors\\peach.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\peach.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\colors\\pink.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\pink.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\colors\\purple.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\purple.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\colors\\red.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\red.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\colors\\sky-blue.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\sky-blue.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\colors\\yellow.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\yellow.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\datepicker.css",
+      "PackagePath": "staticwebassets\\assets\\css\\datepicker.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\fontello-ie7.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontello-ie7.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\fontello.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontello.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\settings.css",
+      "PackagePath": "staticwebassets\\assets\\css\\settings.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\font\\fontello.eot",
+      "PackagePath": "staticwebassets\\assets\\font\\fontello.eot"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\font\\fontello.svg",
+      "PackagePath": "staticwebassets\\assets\\font\\fontello.svg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\font\\fontello.ttf",
+      "PackagePath": "staticwebassets\\assets\\font\\fontello.ttf"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\font\\fontello.woff",
+      "PackagePath": "staticwebassets\\assets\\font\\fontello.woff"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\images\\icons\\ajaxloader.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\ajaxloader.gif"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\images\\icons\\grabbing.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\grabbing.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\images\\icons\\loader.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\loader.gif"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\images\\lightbox\\close.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lightbox\\close.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\images\\lightbox\\close@2x.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lightbox\\close@2x.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\images\\lightbox\\loading.GIF",
+      "PackagePath": "staticwebassets\\assets\\images\\lightbox\\loading.GIF"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\images\\lightbox\\loading@2x.GIF",
+      "PackagePath": "staticwebassets\\assets\\images\\lightbox\\loading@2x.GIF"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\images\\lightbox\\next.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lightbox\\next.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\images\\lightbox\\next@2x.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lightbox\\next@2x.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\images\\lightbox\\prev.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lightbox\\prev.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\images\\lightbox\\prev@2x.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lightbox\\prev@2x.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\contact.form.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact.form.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\count-to.js",
+      "PackagePath": "staticwebassets\\assets\\js\\count-to.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.appear.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\jquery.dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.dataTables.bootstrap.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\jquery.easypiechart.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.easypiechart.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\jquery.fitvids.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.fitvids.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\jquery.isotope.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.isotope.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\jquery.lettering.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.lettering.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\jquery.migrate.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.migrate.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\jquery.nicescroll.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nicescroll.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\jquery.parallax.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.parallax.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\jquery.textillate.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.textillate.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\jquery.themepunch.plugins.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.themepunch.plugins.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\mediaelement-and-player.js",
+      "PackagePath": "staticwebassets\\assets\\js\\mediaelement-and-player.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\modernizrr.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modernizrr.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\nivo-lightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\nivo-lightbox.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\css\\Plugin\\ace.css",
+      "PackagePath": "staticwebassets\\css\\Plugin\\ace.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\css\\Plugin\\jquery.loadmask.css",
+      "PackagePath": "staticwebassets\\css\\Plugin\\jquery.loadmask.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\css\\Plugin\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\Plugin\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\css\\Plugin\\slick.css",
+      "PackagePath": "staticwebassets\\css\\Plugin\\slick.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\css\\Themes\\magenda.css",
+      "PackagePath": "staticwebassets\\css\\Themes\\magenda.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\css\\Vendor\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\Vendor\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\css\\Vendor\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\Vendor\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\css\\Vendor\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\Vendor\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\css\\Vendor\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\Vendor\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\css\\app-view.css",
+      "PackagePath": "staticwebassets\\css\\app-view.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\css\\multipurpose.css",
+      "PackagePath": "staticwebassets\\css\\multipurpose.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\css\\product-details.css",
+      "PackagePath": "staticwebassets\\css\\product-details.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\css\\top-menu.css",
+      "PackagePath": "staticwebassets\\css\\top-menu.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\Logo1.png",
+      "PackagePath": "staticwebassets\\images\\Logo1.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\Spacer.gif",
+      "PackagePath": "staticwebassets\\images\\Spacer.gif"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\ajax-loader-small.gif",
+      "PackagePath": "staticwebassets\\images\\ajax-loader-small.gif"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\images\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\ajax_loader_blue_32.gif",
+      "PackagePath": "staticwebassets\\images\\ajax_loader_blue_32.gif"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\ajax_loader_blue_48.gif",
+      "PackagePath": "staticwebassets\\images\\ajax_loader_blue_48.gif"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\ajax_loader_blue_64.gif",
+      "PackagePath": "staticwebassets\\images\\ajax_loader_blue_64.gif"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\app_store_badge.svg",
+      "PackagePath": "staticwebassets\\images\\app_store_badge.svg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\basket.png",
+      "PackagePath": "staticwebassets\\images\\basket.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\bid-white.png",
+      "PackagePath": "staticwebassets\\images\\bid-white.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\bullet.png",
+      "PackagePath": "staticwebassets\\images\\bullet.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\cards\\Amex.jpg",
+      "PackagePath": "staticwebassets\\images\\cards\\Amex.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\cards\\american-express-curved-32px.png",
+      "PackagePath": "staticwebassets\\images\\cards\\american-express-curved-32px.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\cards\\cards.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cards.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\cards\\cards_credt.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cards_credt.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\cards\\cod.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cod.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\cards\\master.jpg",
+      "PackagePath": "staticwebassets\\images\\cards\\master.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\cards\\mastercard-curved-32px.png",
+      "PackagePath": "staticwebassets\\images\\cards\\mastercard-curved-32px.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\cards\\visa-curved-32px.png",
+      "PackagePath": "staticwebassets\\images\\cards\\visa-curved-32px.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\cards\\visa.png",
+      "PackagePath": "staticwebassets\\images\\cards\\visa.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\cart-top.png",
+      "PackagePath": "staticwebassets\\images\\cart-top.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\cart.png",
+      "PackagePath": "staticwebassets\\images\\cart.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\collapsed.png",
+      "PackagePath": "staticwebassets\\images\\collapsed.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\cross.png",
+      "PackagePath": "staticwebassets\\images\\cross.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\delivery.png",
+      "PackagePath": "staticwebassets\\images\\delivery.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\down-arrow-white.png",
+      "PackagePath": "staticwebassets\\images\\down-arrow-white.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\down_arrow.png",
+      "PackagePath": "staticwebassets\\images\\down_arrow.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\expand.png",
+      "PackagePath": "staticwebassets\\images\\expand.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\feedback.png",
+      "PackagePath": "staticwebassets\\images\\feedback.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\flag-arabic.png",
+      "PackagePath": "staticwebassets\\images\\flag-arabic.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\flag-english.png",
+      "PackagePath": "staticwebassets\\images\\flag-english.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\flag-japan.png",
+      "PackagePath": "staticwebassets\\images\\flag-japan.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\flag-spain.png",
+      "PackagePath": "staticwebassets\\images\\flag-spain.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\footer-back.png",
+      "PackagePath": "staticwebassets\\images\\footer-back.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\glyphicons-halflings-white.png",
+      "PackagePath": "staticwebassets\\images\\glyphicons-halflings-white.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\glyphicons-halflings.png",
+      "PackagePath": "staticwebassets\\images\\glyphicons-halflings.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\google_play_badge.png",
+      "PackagePath": "staticwebassets\\images\\google_play_badge.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\icon_delivery.png",
+      "PackagePath": "staticwebassets\\images\\icon_delivery.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\icon_returnpolicy.png",
+      "PackagePath": "staticwebassets\\images\\icon_returnpolicy.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\icon_shipping.png",
+      "PackagePath": "staticwebassets\\images\\icon_shipping.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\icon_support.png",
+      "PackagePath": "staticwebassets\\images\\icon_support.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\left-arrow.png",
+      "PackagePath": "staticwebassets\\images\\left-arrow.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\line-shadow.png",
+      "PackagePath": "staticwebassets\\images\\line-shadow.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\list-white.png",
+      "PackagePath": "staticwebassets\\images\\list-white.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\list.png",
+      "PackagePath": "staticwebassets\\images\\list.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\loader-1.gif",
+      "PackagePath": "staticwebassets\\images\\loader-1.gif"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\logo\\Logo.png",
+      "PackagePath": "staticwebassets\\images\\logo\\Logo.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\logo\\original\\Logo.png",
+      "PackagePath": "staticwebassets\\images\\logo\\original\\Logo.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\no-image.png",
+      "PackagePath": "staticwebassets\\images\\no-image.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\no-photo.jpg",
+      "PackagePath": "staticwebassets\\images\\no-photo.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\pass.png",
+      "PackagePath": "staticwebassets\\images\\pass.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\pattern-dots-single.png",
+      "PackagePath": "staticwebassets\\images\\pattern-dots-single.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\pattern.png",
+      "PackagePath": "staticwebassets\\images\\pattern.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\return.png",
+      "PackagePath": "staticwebassets\\images\\return.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\right-arrow.png",
+      "PackagePath": "staticwebassets\\images\\right-arrow.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\right-tic.png",
+      "PackagePath": "staticwebassets\\images\\right-tic.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\scan.png",
+      "PackagePath": "staticwebassets\\images\\scan.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\secure.png",
+      "PackagePath": "staticwebassets\\images\\secure.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\secured.png",
+      "PackagePath": "staticwebassets\\images\\secured.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\slider\\c1019df5-aa93-4702-a8d5-3e2ef197dc82.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\c1019df5-aa93-4702-a8d5-3e2ef197dc82.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\slider\\d5b4488b-45aa-440c-8198-f29875b65f1f.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\d5b4488b-45aa-440c-8198-f29875b65f1f.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\slider\\e2c0b564-253c-40e5-a34c-914b5f534ee4.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\e2c0b564-253c-40e5-a34c-914b5f534ee4.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\slider\\original\\c1019df5-aa93-4702-a8d5-3e2ef197dc82.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\original\\c1019df5-aa93-4702-a8d5-3e2ef197dc82.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\slider\\original\\d5b4488b-45aa-440c-8198-f29875b65f1f.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\original\\d5b4488b-45aa-440c-8198-f29875b65f1f.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\slider\\original\\e2c0b564-253c-40e5-a34c-914b5f534ee4.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\original\\e2c0b564-253c-40e5-a34c-914b5f534ee4.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\support.png",
+      "PackagePath": "staticwebassets\\images\\support.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\top-header-back.png",
+      "PackagePath": "staticwebassets\\images\\top-header-back.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\trust-icon.png",
+      "PackagePath": "staticwebassets\\images\\trust-icon.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\trusted.jpg",
+      "PackagePath": "staticwebassets\\images\\trusted.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\trusted_secured.jpg",
+      "PackagePath": "staticwebassets\\images\\trusted_secured.jpg"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\user-privacy.gif",
+      "PackagePath": "staticwebassets\\images\\user-privacy.gif"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\images\\user-varified.png",
+      "PackagePath": "staticwebassets\\images\\user-varified.png"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\App\\App.js",
+      "PackagePath": "staticwebassets\\js\\App\\App.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\App\\common.js",
+      "PackagePath": "staticwebassets\\js\\App\\common.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\App\\directives.js",
+      "PackagePath": "staticwebassets\\js\\App\\directives.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\App\\enum.js",
+      "PackagePath": "staticwebassets\\js\\App\\enum.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Account\\AccountInfo.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Account\\AccountInfo.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Account\\ChangePassword.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Account\\ChangePassword.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Account\\ChangeUsername.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Account\\ChangeUsername.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Account\\RegisterAccount.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Account\\RegisterAccount.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Admin\\CustomerAdd.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Admin\\CustomerAdd.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Admin\\CustomerList.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Admin\\CustomerList.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Admin\\Dashboard.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Admin\\Dashboard.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Admin\\ProductList.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Admin\\ProductList.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Attribute\\AttributeName.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Attribute\\AttributeName.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Branch\\Branch.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Branch\\Branch.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Cart\\ShoppingCart.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Cart\\ShoppingCart.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Category\\Category.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Category\\Category.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Category\\CategoryPhoto.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Category\\CategoryPhoto.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Customer\\OrderDetails.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Customer\\OrderDetails.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Customer\\OrderList.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Customer\\OrderList.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\HomeSlider\\HomeSlider.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\HomeSlider\\HomeSlider.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Home\\Index.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Home\\Index.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Home\\Index1.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Home\\Index1.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Home\\Index11.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Home\\Index11.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Home\\Index_multipurpose.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Home\\Index_multipurpose.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\ItemType\\ItemType.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\ItemType\\ItemType.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Lookup\\Lookup.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Lookup\\Lookup.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Order\\OrderDetails.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Order\\OrderDetails.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Order\\OrderList.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Order\\OrderList.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Order\\SalesReturn.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Order\\SalesReturn.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Photo\\ManagePhoto.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Photo\\ManagePhoto.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Photo\\SiteLogo.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Photo\\SiteLogo.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\ProductEntry\\AttributeVariations.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\ProductEntry\\AttributeVariations.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\ProductEntry\\EditCategory.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\ProductEntry\\EditCategory.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\ProductEntry\\EditPost.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\ProductEntry\\EditPost.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\ProductEntry\\Post.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\ProductEntry\\Post.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\ProductEntry\\StockUpdate.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\ProductEntry\\StockUpdate.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Product\\Details.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Product\\Details.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Product\\Search.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Product\\Search.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Reports\\ActivityLog.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Reports\\ActivityLog.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Reports\\DailySales.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Reports\\DailySales.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Reports\\DailySalesChart.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Reports\\DailySalesChart.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Security\\ForgotPassword.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Security\\ForgotPassword.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Security\\Login.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Security\\Login.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Settings\\Settings.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Settings\\Settings.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Shared\\HeaderSearchBar.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Shared\\HeaderSearchBar.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Static\\ContactUs.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Static\\ContactUs.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\Supplier\\Supplier.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\Supplier\\Supplier.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\UserManagement\\CreateUser.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\UserManagement\\CreateUser.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Controller\\UserManagement\\UserList.js",
+      "PackagePath": "staticwebassets\\js\\Controller\\UserManagement\\UserList.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Plugin\\ace.js",
+      "PackagePath": "staticwebassets\\js\\Plugin\\ace.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Plugin\\bootbox.min.js",
+      "PackagePath": "staticwebassets\\js\\Plugin\\bootbox.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Plugin\\bootstrap-multiselect.js",
+      "PackagePath": "staticwebassets\\js\\Plugin\\bootstrap-multiselect.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Plugin\\dataTables.fixedColumns.min.js",
+      "PackagePath": "staticwebassets\\js\\Plugin\\dataTables.fixedColumns.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Plugin\\dataTables.fixedHeader.min.js",
+      "PackagePath": "staticwebassets\\js\\Plugin\\dataTables.fixedHeader.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Plugin\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\js\\Plugin\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Plugin\\html5-qrcode.min.js",
+      "PackagePath": "staticwebassets\\js\\Plugin\\html5-qrcode.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Plugin\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\Plugin\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Plugin\\jquery-dateFormat.min.js",
+      "PackagePath": "staticwebassets\\js\\Plugin\\jquery-dateFormat.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Plugin\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\js\\Plugin\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Plugin\\jquery.loadmask.js",
+      "PackagePath": "staticwebassets\\js\\Plugin\\jquery.loadmask.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Plugin\\jquery.slimscroll.min.js",
+      "PackagePath": "staticwebassets\\js\\Plugin\\jquery.slimscroll.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Plugin\\jquery.timeentry.min.js",
+      "PackagePath": "staticwebassets\\js\\Plugin\\jquery.timeentry.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Plugin\\jquery.twbsPagination.js",
+      "PackagePath": "staticwebassets\\js\\Plugin\\jquery.twbsPagination.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Plugin\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\Plugin\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Plugin\\moment.js",
+      "PackagePath": "staticwebassets\\js\\Plugin\\moment.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Plugin\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\Plugin\\slick.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Vendor\\angular-sanitize.js",
+      "PackagePath": "staticwebassets\\js\\Vendor\\angular-sanitize.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Vendor\\angular.min.js",
+      "PackagePath": "staticwebassets\\js\\Vendor\\angular.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\Vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Vendor\\highcharts-exporting.js",
+      "PackagePath": "staticwebassets\\js\\Vendor\\highcharts-exporting.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Vendor\\highcharts.js",
+      "PackagePath": "staticwebassets\\js\\Vendor\\highcharts.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Vendor\\jquery-2.1.1.min.js",
+      "PackagePath": "staticwebassets\\js\\Vendor\\jquery-2.1.1.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Vendor\\jquery-3.5.1.min.js",
+      "PackagePath": "staticwebassets\\js\\Vendor\\jquery-3.5.1.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Vendor\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\Vendor\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Vendor\\jquery.plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\Vendor\\jquery.plugin.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Vendor\\ngRoute.js",
+      "PackagePath": "staticwebassets\\js\\Vendor\\ngRoute.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Vendor\\ngfile.js",
+      "PackagePath": "staticwebassets\\js\\Vendor\\ngfile.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\js\\Vendor\\pixel-admin.min.js",
+      "PackagePath": "staticwebassets\\js\\Vendor\\pixel-admin.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\site-library.min.js",
+      "PackagePath": "staticwebassets\\site-library.min.js"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\site.min.css",
+      "PackagePath": "staticwebassets\\site.min.css"
+    },
+    {
+      "Id": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\wwwroot\\site.min.js",
+      "PackagePath": "staticwebassets\\site.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Application.Web_Fashion.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Application.Web_Fashion.props",
+      "PackagePath": "build\\Application.Web_Fashion.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Application.Web_Fashion.props",
+      "PackagePath": "buildMultiTargeting\\Application.Web_Fashion.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Application.Web_Fashion.props",
+      "PackagePath": "buildTransitive\\Application.Web_Fashion.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

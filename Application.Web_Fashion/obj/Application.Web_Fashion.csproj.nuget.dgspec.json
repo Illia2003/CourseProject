@@ -1,0 +1,597 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\Application.Web_Fashion.csproj": {}
+  },
+  "projects": {
+    "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Common\\Application.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Common\\Application.Common.csproj",
+        "projectName": "Application.Common",
+        "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Common\\Application.Common.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Data\\Application.Data.csproj": {
+                "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Data\\Application.Data.csproj"
+              },
+              "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Model\\Application.Model.csproj": {
+                "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Model\\Application.Model.csproj"
+              },
+              "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.ViewModel\\Application.ViewModel.csproj": {
+                "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.ViewModel\\Application.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Runtime.Caching": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Data\\Application.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Data\\Application.Data.csproj",
+        "projectName": "Application.Data",
+        "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Data\\Application.Data.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Model\\Application.Model.csproj": {
+                "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Model\\Application.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "PagedList.Core": {
+              "target": "Package",
+              "version": "[1.17.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Logging\\Application.Logging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Logging\\Application.Logging.csproj",
+        "projectName": "Application.Logging",
+        "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Logging\\Application.Logging.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Logging\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "elmah": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Model\\Application.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Model\\Application.Model.csproj",
+        "projectName": "Application.Model",
+        "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Model\\Application.Model.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Notification\\Application.Notification.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Notification\\Application.Notification.csproj",
+        "projectName": "Application.Notification",
+        "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Notification\\Application.Notification.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Notification\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Logging\\Application.Logging.csproj": {
+                "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Logging\\Application.Logging.csproj"
+              },
+              "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.ViewModel\\Application.ViewModel.csproj": {
+                "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.ViewModel\\Application.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Service\\Application.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Service\\Application.Service.csproj",
+        "projectName": "Application.Service",
+        "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Service\\Application.Service.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Common\\Application.Common.csproj": {
+                "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Common\\Application.Common.csproj"
+              },
+              "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Data\\Application.Data.csproj": {
+                "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Data\\Application.Data.csproj"
+              },
+              "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Model\\Application.Model.csproj": {
+                "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Model\\Application.Model.csproj"
+              },
+              "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.ViewModel\\Application.ViewModel.csproj": {
+                "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.ViewModel\\Application.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.ViewModel\\Application.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.ViewModel\\Application.ViewModel.csproj",
+        "projectName": "Application.ViewModel",
+        "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.ViewModel\\Application.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Model\\Application.Model.csproj": {
+                "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Model\\Application.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\Application.Web_Fashion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\Application.Web_Fashion.csproj",
+        "projectName": "Application.Web_Fashion",
+        "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\Application.Web_Fashion.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Web_Fashion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Common\\Application.Common.csproj": {
+                "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Common\\Application.Common.csproj"
+              },
+              "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Data\\Application.Data.csproj": {
+                "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Data\\Application.Data.csproj"
+              },
+              "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Logging\\Application.Logging.csproj": {
+                "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Logging\\Application.Logging.csproj"
+              },
+              "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Model\\Application.Model.csproj": {
+                "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Model\\Application.Model.csproj"
+              },
+              "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Notification\\Application.Notification.csproj": {
+                "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Notification\\Application.Notification.csproj"
+              },
+              "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Service\\Application.Service.csproj": {
+                "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Service\\Application.Service.csproj"
+              },
+              "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.ViewModel\\Application.ViewModel.csproj": {
+                "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.ViewModel\\Application.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "BuildBundlerMinifier": {
+              "target": "Package",
+              "version": "[3.2.449, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[41.15.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "System.Runtime.Caching": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

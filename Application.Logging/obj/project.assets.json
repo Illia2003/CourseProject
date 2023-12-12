@@ -1,0 +1,131 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "elmah/1.2.2": {
+        "type": "package",
+        "dependencies": {
+          "elmah.corelibrary": "1.2.2"
+        }
+      },
+      "elmah.corelibrary/1.2.2": {
+        "type": "package",
+        "compile": {
+          "lib/Elmah.dll": {}
+        },
+        "runtime": {
+          "lib/Elmah.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "elmah/1.2.2": {
+      "sha512": "UGnc/NHz0SHNc5eWaW+NynuYWFn+KM2NEoBJbavDt6s8pSBZQgDkKaaqvEV43TiF5GB1uDVjXLx1yjdfP78UPQ==",
+      "type": "package",
+      "path": "elmah/1.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Readme.txt",
+        "content/App_Readme/Elmah.txt",
+        "content/web.config.transform",
+        "elmah.1.2.2.nupkg.sha512",
+        "elmah.nuspec"
+      ]
+    },
+    "elmah.corelibrary/1.2.2": {
+      "sha512": "OEx4ds9r2bw2/45VZwfw11lLv4y+mC2FUZxp7LsjmauFxj92K1kx8hafSBvls+V9s0WH0wv84B1LfWN/EaGfkg==",
+      "type": "package",
+      "path": "elmah.corelibrary/1.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "elmah.corelibrary.1.2.2.nupkg.sha512",
+        "elmah.corelibrary.nuspec",
+        "lib/Elmah.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "elmah >= 1.2.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Logging\\Application.Logging.csproj",
+      "projectName": "Application.Logging",
+      "projectPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Logging\\Application.Logging.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\ХНУ\\3\\Інтернет\\Курсовий проект\\Fashion\\Source\\Application.Logging\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "elmah": {
+            "target": "Package",
+            "version": "[1.2.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"elmah.corelibrary 1.2.2\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "elmah.corelibrary",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

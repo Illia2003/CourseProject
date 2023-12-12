@@ -1,0 +1,125 @@
+[
+  {
+    // Css
+    "outputFileName": "wwwroot/site.min.css",
+    "inputFiles": [
+      "wwwroot/css/Vendor/bootstrap.min.css",
+      "wwwroot/Assets/css/responsive.css",
+      "wwwroot/Assets/css/colors/blue.css",
+      "wwwroot/Assets/css/fontello.css",
+      "wwwroot/css/style.css",
+      "wwwroot/css/top-menu.css",
+      "wwwroot/css/Vendor/dataTables.bootstrap.min.css",
+      "wwwroot/css/Plugin/slick-theme.css",
+      "wwwroot/css/Plugin/slick.css",
+      "wwwroot/Assets/css/style.css",
+      "wwwroot/Assets/css/datepicker.css",
+      "wwwroot/css/multipurpose.css",
+      "wwwroot/css/app-view.css",
+      "wwwroot/css/Vendor/jquery-ui.css",
+      "wwwroot/css/Themes/magenda.css"
+    ],
+    "minify": {
+      "enabled": false,
+      "renameLocals": true
+    },
+    "sourceMap": false
+  },
+  {
+    // JS Vendor
+    "outputFileName": "wwwroot/site-library.min.js",
+    "inputFiles": [
+      "wwwroot/js/Vendor/jquery-2.1.1.min.js",
+      "wwwroot/js/Vendor/jquery-ui.min.js",
+      "wwwroot/js/Plugin/jquery.twbsPagination.js",
+      "wwwroot/js/Plugin/moment.js",
+      "wwwroot/Assets/js/bootstrap-datepicker.min.js",
+      "wwwroot/Assets/js/jquery.migrate.js",
+      "wwwroot/Assets/js/modernizrr.js",
+      "wwwroot/Assets/js/bootstrap.js",
+      "wwwroot/js/Plugin/jquery.dataTables.min.js",
+      "wwwroot/Assets/js/jquery.dataTables.bootstrap.js",
+      "wwwroot/js/Plugin/jquery-dateFormat.min.js",
+      "wwwroot/js/Plugin/bootbox.min.js",
+      "wwwroot/js/Plugin/slick.min.js",
+      "wwwroot/js/Plugin/masonry.pkgd.min.js",
+      "wwwroot/js/Plugin/imagesloaded.pkgd.min.js",
+      "wwwroot/js/Vendor/jquery.plugin.min.js",
+      "wwwroot/js/Plugin/jquery.timeentry.min.js",
+      "wwwroot/js/Plugin/ace.js",
+      "wwwroot/js/Plugin/jquery.slimscroll.min.js",
+      "wwwroot/js/Plugin/dataTables.fixedColumns.min.js",
+      "wwwroot/js/Plugin/dataTables.fixedHeader.min.js",
+      "wwwroot/js/Vendor/highcharts.js",
+      "wwwroot/js/Vendor/highcharts-exporting.js",
+      "wwwroot/js/Plugin/html5-qrcode.min.js"
+    ],
+    "minify": {
+      "enabled": false,
+      "renameLocals": true
+    },
+    "sourceMap": false
+  },
+  {
+    // JS App
+    "outputFileName": "wwwroot/site.min.js",
+    "inputFiles": [
+      "wwwroot/js/App/enum.js",
+      "wwwroot/js/App/App.js",
+      "wwwroot/js/App/common.js",
+      "wwwroot/js/Controller/Shared/HeaderSearchBar.js",
+      "wwwroot/js/Controller/Account/ChangePassword.js",
+      "wwwroot/js/Controller/Account/AccountInfo.js",
+      "wwwroot/js/Controller/Account/ChangeUsername.js",
+      "wwwroot/js/Controller/Notification/Notification.js",
+      "wwwroot/js/Controller/Photo/ManagePhoto.js",
+      "wwwroot/js/Controller/Photo/SiteLogo.js",
+      "wwwroot/js/Controller/Product/Search.js",
+      "wwwroot/js/Controller/Security/ForgotPassword.js",
+      "wwwroot/js/Controller/Security/Login.js",
+      "wwwroot/js/Controller/Static/ContactUs.js",
+      "wwwroot/js/Controller/ProductEntry/Post.js",
+      "wwwroot/js/Controller/ProductEntry/EditPost.js",
+      "wwwroot/js/Controller/ProductEntry/StockUpdate.js",
+      "wwwroot/js/Controller/ProductEntry/AttributeVariations.js",
+      "wwwroot/js/Controller/ProductEntry/EditCategory.js",
+      "wwwroot/js/Controller/Home/Index.js",
+      "wwwroot/js/Controller/Product/Details.js",
+      "wwwroot/js/Controller/Cart/ShoppingCart.js",
+      "wwwroot/js/Controller/Customer/OrderList.js",
+      "wwwroot/js/Controller/Customer/OrderDetails.js",
+      "wwwroot/js/Controller/Order/OrderList.js",
+      "wwwroot/js/Controller/Order/OrderDetails.js",
+      "wwwroot/js/Controller/Order/SalesReturn.js",
+      "wwwroot/js/Controller/Branch/Branch.js",
+      "wwwroot/js/Controller/Reports/DailySales.js",
+      "wwwroot/js/Controller/Reports/SalesSummary.js",
+      "wwwroot/js/Controller/Account/RegisterAccount.js",
+      "wwwroot/js/Controller/Supplier/Supplier.js",
+      "wwwroot/js/Controller/ItemType/ItemType.js",
+      "wwwroot/js/Controller/UserManagement/UserList.js",
+      "wwwroot/js/Controller/UserManagement/CreateUser.js",
+      "wwwroot/js/Controller/Admin/ProductList.js",
+      "wwwroot/js/Controller/Category/Category.js",
+      "wwwroot/js/Controller/Category/CategoryPhoto.js",
+      "wwwroot/js/Controller/Lookup/Lookup.js",
+      "wwwroot/js/Controller/Admin/Dashboard.js",
+      "wwwroot/js/Controller/Settings/Settings.js",      
+      "wwwroot/js/Controller/Purchase/ProductStock.js",
+      "wwwroot/js/Controller/Purchase/LowStockEntry.js",
+      "wwwroot/js/Controller/Purchase/LowStockList.js",
+      "wwwroot/js/Controller/Reports/MonthlySalesChart.js",
+      "wwwroot/js/Controller/Reports/DailySalesChart.js",
+      "wwwroot/js/Controller/Reports/ActivityLog.js",
+      "wwwroot/js/Controller/Admin/CustomerAdd.js",
+      "wwwroot/js/Controller/Admin/CustomerList.js",
+      "wwwroot/js/Controller/HomeSlider/HomeSlider.js",
+      "wwwroot/js/Controller/Attribute/AttributeName.js"
+    ],
+    "minify": {
+      "enabled": false,
+      "renameLocals": true
+    },
+    "sourceMap": false
+  }
+]

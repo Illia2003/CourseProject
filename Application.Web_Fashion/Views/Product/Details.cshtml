@@ -1,0 +1,120 @@
+﻿@{
+    ViewBag.Title = Localizer["Product Details"];
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/css/product-details.css" rel="stylesheet" />
+
+<form name="myForm" novalidate>
+    <div ng-controller="ProductDetailCtrl" class="form-horizontal">
+        <div class="container">
+            <div style="padding: 15px; padding-top:0; padding-left: 0;">
+                <div id="bread-crumb"></div>
+            </div>
+
+            <div class="prod-sec-container">
+                <div class="row" style="border-bottom: 0px solid #dcdcdc;">
+                    <div class="col-sm-6">
+
+                        <!--Modal-->
+                        <div class="slider-modal-container">
+                            <div class="slider-modal" style="display: none;"></div>
+                        </div>
+                        <span class="slider-modal-close glyphicons glyphicons-remove" ng-click="closeModal()"></span>
+
+
+                        <!--Main image-->
+                        <div class="slider" style="background-color:#E3E2DE;">
+                            <div class="product-thumb" style="width: 100%; height: 488px;">
+                                <div class="dum-prod-item" style="width: 100%; height: 100%;"></div>
+                            </div>
+                        </div>
+                        <!-- Thumbnail -->
+                        <div class="slider-nav-thumbnails"></div>
+                        <br />                        
+                    </div>
+                    <div class="col-sm-6" style="margin-bottom: 20px;">                        
+                        <div>
+                            <div>
+                                <span class="product-title">{{product.Title}}</span>
+                            </div>
+                            <div style="margin-top:10px; padding-bottom:5px; margin-bottom:10px; border-bottom:1px solid #dcdcdc;">
+                                <span style="font-size:15px;">@Localizer["SKU"]: {{product.Barcode}}</span>
+                            </div>
+                            <br />
+                            <div>
+                                <span style="font-size: 15px;">@Localizer["Price"]</span>
+                                <div style="padding-top:5px;">                                    
+                                    <spam class="old-price">{{product.PriceTextOld}}</spam>
+                                    <spam class="theme-text-color item-price" style="font-size: 24px; font-weight: 600;">{{product.PriceText}}</spam>
+                                </div>
+                            </div>
+
+                            
+                            
+                            <!-- Size & Color attributes -->                            
+                            <div class="color-view clearfix margin-top-15">
+                                <span style="font-size: 15px;">@Localizer["Color"]</span>
+                                <div id="divColor"></div>
+                            </div>
+
+                            <div class="size-view clearfix margin-top-15">
+                                <span style="font-size: 15px;">@Localizer["Size"]</span>
+                                <div id="divSize"></div>
+                            </div>
+                            
+                            <div class="margin-top-25">
+                                <span style="font-size: 15px;">@Localizer["Quantity"]</span>
+                                <div style="padding-top:5px;">
+                                    <button id="btnMinus" class="btn btn-default" style=" float:left;">-</button>
+                                    <input id="cartQuantity" type="text" value="1" class="form-control" style="width: 77px; float: left; margin-left: 10px; margin-right: 10px; text-align: center; border: 1px solid #dcdcdc !important;" />
+                                    <button id="btnPlus" class="btn btn-default">+</button>
+                                </div>
+                            </div>
+                            <br />
+                            <div>
+
+                                <a class="bm-button btn-add-to-cart theme-back-color" style="padding-left: 30px;padding-right: 30px;">
+                                    @Localizer["Add To Cart"]
+                                </a>
+
+                                <a class="bm-button app-hide" style="padding-left: 30px; padding-right: 30px; margin-left:10px;" href="/cart">
+                                    @Localizer["View Cart"]
+                                </a>
+                            </div>
+                        </div>
+                        <br />
+
+                    </div>
+                </div>
+            </div>
+            <br />
+            <div class="masonry">
+                <ul class="tabs">
+                    <li><a href="#tab1">@Localizer["Product Details"]</a></li>                    
+                </ul>
+                <div class="tab_container">
+                    <div id="tab1" class="tab_content">
+                        <table id="tblProductAttribute"></table>
+
+                        <div>
+                            <span id="product-description"></span>
+                        </div>
+
+                    </div>
+                    <div id="tab2" class="tab_content">                        
+                    </div>
+                </div>
+            </div>
+            <br />
+            <div class="prod-sec-container">
+                <div style="border-bottom: 1px solid #dcdcdc; margin-bottom: 10px; padding-bottom: 5px;">
+                    <span style="font-size: 20px;">@Localizer["You may also like"]</span>
+                </div>
+                <div style="padding: 20px;">
+                    <div class="related-product-slider"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

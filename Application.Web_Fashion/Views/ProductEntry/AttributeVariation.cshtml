@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = Localizer["Attribute Update"];
+    Layout = "~/Views/Shared/_Layout_Administration.cshtml";
+}
+
+<div class="container11">
+
+    <div class="page-banner no-subtitle">
+        <div class="row">
+            <div class="col-md-6">
+                <h2>@Localizer["Attributes"]</h2>
+            </div>
+            <div class="col-md-6">
+                <ul class="breadcrumbs">
+                    <li><a href="#"></a></li>
+                    <li>@Localizer["Attributes"]</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <form name="myForm" novalidate>
+        <div ng-controller="AttrVariationCtrl" class="form-horizontal" style="padding-top:5px;">
+            <div style="margin-top:5px;">
+
+                <div id="general-container" class="tblHeader">
+                    <div class="item-loading">
+                        <img src="~/Images/ajax-loader.gif" /> @Localizer["Loading..."]
+                    </div>
+                    <table id="dt-update-attr" class="table table-striped table-bordered table-hover"></table>
+                </div>
+
+            </div>
+        </div>
+    </form>
+</div>

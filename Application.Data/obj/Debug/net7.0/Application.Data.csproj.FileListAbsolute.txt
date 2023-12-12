@@ -1,0 +1,16 @@
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Data\bin\Debug\net7.0\Application.Data.deps.json
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Data\bin\Debug\net7.0\Application.Data.dll
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Data\bin\Debug\net7.0\Application.Data.pdb
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Data\bin\Debug\net7.0\Application.Model.dll
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Data\bin\Debug\net7.0\Application.Model.pdb
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Data\bin\Debug\net7.0\Application.Model.dll.config
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Data\obj\Debug\net7.0\Application.Data.csproj.AssemblyReference.cache
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Data\obj\Debug\net7.0\Application.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Data\obj\Debug\net7.0\Application.Data.AssemblyInfoInputs.cache
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Data\obj\Debug\net7.0\Application.Data.AssemblyInfo.cs
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Data\obj\Debug\net7.0\Application.Data.csproj.CoreCompileInputs.cache
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Data\obj\Debug\net7.0\Application.Data.csproj.CopyComplete
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Data\obj\Debug\net7.0\Application.Data.dll
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Data\obj\Debug\net7.0\refint\Application.Data.dll
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Data\obj\Debug\net7.0\Application.Data.pdb
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Data\obj\Debug\net7.0\ref\Application.Data.dll

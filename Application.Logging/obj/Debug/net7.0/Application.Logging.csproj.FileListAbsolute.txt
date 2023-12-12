@@ -1,0 +1,12 @@
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Logging\bin\Debug\net7.0\Application.Logging.deps.json
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Logging\bin\Debug\net7.0\Application.Logging.dll
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Logging\bin\Debug\net7.0\Application.Logging.pdb
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Logging\obj\Debug\net7.0\Application.Logging.csproj.AssemblyReference.cache
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Logging\obj\Debug\net7.0\Application.Logging.GeneratedMSBuildEditorConfig.editorconfig
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Logging\obj\Debug\net7.0\Application.Logging.AssemblyInfoInputs.cache
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Logging\obj\Debug\net7.0\Application.Logging.AssemblyInfo.cs
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Logging\obj\Debug\net7.0\Application.Logging.csproj.CoreCompileInputs.cache
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Logging\obj\Debug\net7.0\Application.Logging.dll
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Logging\obj\Debug\net7.0\refint\Application.Logging.dll
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Logging\obj\Debug\net7.0\Application.Logging.pdb
+D:\ХНУ\3\Інтернет\Курсовий проект\Fashion\Source\Application.Logging\obj\Debug\net7.0\ref\Application.Logging.dll

@@ -1,0 +1,107 @@
+﻿
+@{
+    ViewBag.Title = Localizer["Dashboard"];
+    Layout = "~/Views/Shared/_Layout_Administration.cshtml";
+}
+
+<div ng-controller="AdminDashboardCtrl">
+
+    <h2 style="padding-left:10px;">@Localizer["Dashboard"]</h2>
+    <br />
+
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="dashboard-container">
+                <div class="dashboard-section-title clearfix">
+                    <h3 style="padding-left:10px; font-weight: 400; font-size:17px; float:left;">@Localizer["Online Orders"]</h3>
+                    <a href="/Order/OrderList?orderStatus=Processing" style="float:right; padding-right:14px;">@Localizer["View All"]</a>
+                </div>
+                <div class="dashboard-section-container">
+                    <div class="item-loading">
+                        <img src="~/Images/ajax-loader.gif" /> @Localizer["Loading..."]
+                    </div>
+                    <div>
+                        <table id="admin-dashboard-orderlist" class="table table-striped table-bordered table-hover" style="width: 100%;"></table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br />
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="dashboard-container">
+                <div class="dashboard-section-title">
+                    <h3 style="padding-left:10px; font-weight: 400; font-size:17px;">@Localizer["Today's Sells"]</h3>
+                </div>
+                <div class="dashboard-section-container">
+                    <div class="row" style="margin-top: 10px;">
+                        <div class="col-sm-6">
+                            <div class="infobox infobox-green" style="background-color: #E35B5B; color: #fff">
+                                <div class="infobox-icon">
+                                    <i class="icon icon-globe-2" style="font-size: 50px;"></i>
+                                </div>
+                                <div class="infobox-data" style="float:right;">
+                                    <div id="onlineSellCount" class="infobox-data-number" style="text-align: right; height: 20px;"></div>
+                                    <div class="infobox-lebel" style="text-align:right; padding-top:10px;">@Localizer["Online Sells"]</div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6">
+                            <div class="infobox infobox-green" style="background-color: #8775A7; color: #fff">
+                                <div class="infobox-icon">
+                                    <i class="icon icon-list-1" style="font-size: 60px;"></i>
+                                </div>
+                                <div class="infobox-data" style="float:right;">
+                                    <div id="pendingOrderCount" class="infobox-data-number" style="text-align: right; height: 20px;"></div>
+                                    <div class="infobox-lebel" style="text-align:right; padding-top:10px;">@Localizer["Delivery Pending"]</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br />
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="dashboard-container">
+                <div class="dashboard-section-title">
+                    <h3 style="padding-left:10px; font-weight: 400; font-size:17px;">@Localizer["Total Items"]</h3>
+                </div>
+                <div class="dashboard-section-container">
+                    <div class="row" style="margin-top: 10px;">
+                        <div class="col-sm-6">
+                            <div class="infobox infobox-green" style="background-color: #2196F3; color: #fff">
+                                <div class="infobox-icon">
+                                    <i class="icon icon-list-bullet" style="font-size: 50px;"></i>
+                                </div>
+                                <div class="infobox-data" style="float:right;">
+                                    <div id="totalItemPosted" class="infobox-data-number" style="text-align: right; height: 20px;"></div>
+                                    <div class="infobox-lebel" style="text-align:right; padding-top:10px;">@Localizer["Total Item Posted"]</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="infobox infobox-green" style="background-color: yellowgreen; color: #fff">
+                                <div class="infobox-icon">
+                                    <i class="icon icon-dollar" style="font-size: 50px;"></i>
+                                </div>
+                                <div class="infobox-data" style="float:right;">
+                                    <div id="totalItemValue" class="infobox-data-number" style="text-align: right; height: 20px;"></div>
+                                    <div class="infobox-lebel" style="text-align:right; padding-top:10px;">@Localizer["Total Item Cost Values"]</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
